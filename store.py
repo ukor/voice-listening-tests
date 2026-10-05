@@ -70,8 +70,27 @@ def secret(name: str):
     return os.getenv(name)
 
 
+HF_REPO = "all-lab/voice-pairs-audio"  # private dataset: audio/<id>.mp3, rounds.json, key.json
+
+
+def hf_file(name: str) -> str | None:
+    """Local path of a file from the private dataset (downloaded once, then cached), or None."""
+    token = secret("HF_TOKEN")
+    if not token:
+        return None
+    from huggingface_hub import hf_hub_download
+    return hf_hub_download(HF_REPO, name, repo_type="dataset", token=str(token))
+
+
 def load_key() -> dict:
-    """clip id -> {"system", "voice"}."""
+    """clip id -> {"system", "voice"}: the dataset's key.json, else the BAKEOFF_KEY secret, else a local file."""
+    try:
+        path = hf_file("key.json")
+    except Exception:  # dataset unreachable: fall back to the secret
+        path = None
+    if path:
+        key = json.loads(Path(path).read_text(encoding="utf-8"))
+        return {cid: {"system": v["vendor_name"], "voice": v["voice"]} for cid, v in key.items()}
     raw = secret("BAKEOFF_KEY")
     if raw:
         data = json.loads(raw) if isinstance(raw, str) else {k: raw[k] for k in raw}

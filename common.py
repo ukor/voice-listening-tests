@@ -14,18 +14,47 @@ import streamlit as st
 HERE = Path(__file__).resolve().parent
 AUDIO = HERE / "audio"
 STYLESHEET = HERE / "assets" / "styles.css"
-ROUNDS = json.loads((HERE / "data" / "rounds.json").read_text(encoding="utf-8"))
-BY_ID = {r["id"]: r for r in ROUNDS}
 
-GROUPS = [
-    ("english", "English", "Nigerian, Ghanaian and East African accents, plus call-centre lines"),
-    ("hausa", "Hausa", ""),
-    ("igbo", "Igbo", ""),
-    ("yoruba", "Yoruba", ""),
-    ("twi", "Twi (Akan)", ""),
-    ("ewe", "Ewe", ""),
-    ("swahili", "Swahili", ""),
-]
+
+def _load_rounds() -> list:
+    """The dataset's rounds.json (every language), else the copy in data/ (local development)."""
+    import store
+    try:
+        path = store.hf_file("rounds.json")
+    except Exception:  # dataset unreachable: use the bundled copy
+        path = None
+    return json.loads(Path(path or HERE / "data" / "rounds.json").read_text(encoding="utf-8"))
+
+
+ROUNDS = _load_rounds()
+BY_ID = {r["id"]: r for r in ROUNDS}
+ENGLISH_NOTE = "Nigerian, Ghanaian and East African accents, plus call-centre lines"
+OLD_NAMES = {"english": "English", "twi": "Twi (Akan)"}
+GROUPS = []  # (id, name, note) in the order the build wrote them: English first, then A-Z
+for _r in ROUNDS:
+    if _r["group"] not in {g for g, _, _ in GROUPS}:
+        GROUPS.append((_r["group"], _r.get("group_name") or OLD_NAMES.get(_r["group"], _r["group"].title()),
+                       ENGLISH_NOTE if _r["group"] == "english" else ""))
+# BCP-47 tags for the script's lang attribute (screen readers, font shaping)
+LANG_TAG = {"english": "en", "afrikaans": "af", "amharic": "am", "arabic": "ar", "bambara": "bm", "bemba": "bem",
+            "berber": "ber", "chichewa": "ny", "ewe": "ee", "fon": "fon", "fula": "ff", "hausa": "ha", "igbo": "ig",
+            "kanuri": "kr", "kikuyu": "ki", "kinyarwanda": "rw", "krio": "kri", "lingala": "ln", "luganda": "lg",
+            "malagasy": "mg", "ndebele": "nd", "oromo": "om", "sepedi": "nso", "sesotho": "st", "shona": "sn",
+            "somali": "so", "swahili": "sw", "swati": "ss", "tigrinya": "ti", "tsonga": "ts", "tswana": "tn", "twi": "ak",
+            "umbundu": "umb", "venda": "ve", "wolof": "wo", "xhosa": "xh", "yoruba": "yo", "zulu": "zu"}
+
+
+def text_lang(r: dict) -> str:
+    return "en" if r["id"].startswith(("en-", "callcentre")) else LANG_TAG.get(r["group"], "")
+
+
+def audio_path(cid: str) -> str:
+    """A clip's mp3: the local audio/ folder in development, else fetched from the private dataset."""
+    import store
+    local = AUDIO / f"{cid}.mp3"
+    return str(local) if local.exists() else store.hf_file(f"audio/{cid}.mp3")
+
+
 GROUP_NAME = {g: name for g, name, _ in GROUPS}
 ACCENT_NAME = {"nigerian": "Nigerian", "ghanaian": "Ghanaian", "east_african": "East African", "american": "American"}
 LEVELS = {"skip": "Skip", "fluent": "I speak it", "native": "Native"}

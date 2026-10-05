@@ -39,7 +39,6 @@ QUESTIONS = [
     ("overall", "Overall, which is better?", "The one you would rather use."),
 ]
 GROUP_IDS = [g for g, _, _ in C.GROUPS]
-LANG_TAG = {"english": "en", "hausa": "ha", "igbo": "ig", "yoruba": "yo", "twi": "ak", "ewe": "ee", "swahili": "sw"}
 S = C.S
 esc = html.escape
 
@@ -359,7 +358,7 @@ def view_intro() -> None:
             S.setdefault("name_input", S.name)
             st.text_input("Your name", key="name_input", placeholder="e.g. Amina Bello")
             S.setdefault("langs_pick", [g for g in GROUP_IDS if g in S.langs])
-            st.multiselect("Languages you speak", GROUP_IDS, format_func=C.GROUP_NAME.get, key="langs_pick",
+            st.multiselect("Languages you speak", [g for g in GROUP_IDS if pairs_in(g)], format_func=C.GROUP_NAME.get, key="langs_pick",
                            placeholder="Choose languages")
             chosen = [g for g in GROUP_IDS if g in (S.langs_pick or [])]
             if chosen:  # keep the native picks valid for the languages still chosen
@@ -395,14 +394,14 @@ def view_pair() -> None:
     note = f'<em>{esc(r["note"])}</em>' if r.get("note") else ""
     md(f'<div class="vp-crumb">{esc(pair_title(p))} · {gender} voices</div>'
        '<h2 class="vp-h2">Which voice sounds more like home?</h2>'
-       f'<div class="vp-script"><div class="vp-script-art wc" aria-hidden="true">{WASH}</div><small>BOTH VOICES READ</small><p lang="{LANG_TAG[r["group"]]}">{esc(r["text"])}</p>{note}</div>')
+       f'<div class="vp-script"><div class="vp-script-art wc" aria-hidden="true">{WASH}</div><small>BOTH VOICES READ</small><p lang="{C.text_lang(r)}">{esc(r["text"])}</p>{note}</div>')
 
     cols = st.columns(2, gap="medium")
     for col, letter, cid in ((cols[0], "A", a), (cols[1], "B", b)):
         with col.container(key=f"voice_{letter}"):
             md(f'<div class="vp-voice"><span class="ab">{letter}</span>'
                f'<div><b>Voice {letter}</b><span>Play it, then compare</span></div></div>')
-            st.audio(str(C.AUDIO / f"{cid}.mp3"), format="audio/mpeg")
+            st.audio(C.audio_path(cid), format="audio/mpeg")
 
     saved = S.saved.get(pid, {})
     for crit, _, _ in QUESTIONS:  # prefill a revisited pair; widget state is dropped once a pair is left

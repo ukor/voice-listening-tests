@@ -224,7 +224,7 @@ def view_round() -> None:
             letter = LETTERS[i]
             with st.container(key=f"voice_{i}"):
                 C.voice_header(letter)
-                st.audio(str(C.AUDIO / f"{cid}.mp3"), format="audio/mpeg")
+                st.audio(C.audio_path(cid), format="audio/mpeg")
                 cols = st.columns(2)
                 for j, (crit, label, help_) in enumerate(C.CRITERIA):
                     cols[j % 2].radio(label, [1, 2, 3, 4, 5], index=None, horizontal=True,
