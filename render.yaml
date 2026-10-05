@@ -1,0 +1,25 @@
+# Voice Pairs on Render. Audio and the round list come from the private dataset
+# all-lab/voice-pairs-audio when HF_TOKEN is set; otherwise the copies in this repo.
+services:
+  - type: web
+    name: voice-listening-tests
+    runtime: python
+    plan: free
+    region: frankfurt
+    branch: main
+    buildCommand: pip install -r requirements.txt
+    startCommand: streamlit run streamlit_app.py --server.port $PORT --server.address 0.0.0.0 --server.headless true --server.enableCORS false --server.enableXsrfProtection false --server.fileWatcherType none
+    healthCheckPath: /
+    envVars:
+      - key: PYTHON_VERSION
+        value: "3.11.11"
+      - key: HF_TOKEN
+        sync: false
+      - key: PAIRS_SHEET_ID
+        sync: false
+      - key: RATINGS_SHEET_ID
+        sync: false
+      - key: BAKEOFF_KEY
+        sync: false
+      - key: GOOGLE_SERVICE_ACCOUNT
+        sync: false
