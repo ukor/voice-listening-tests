@@ -11,6 +11,8 @@ Pairs with the fewest judgments so far are served first, so coverage stays even 
 early.
 
     streamlit run streamlit_app.py
+
+The language list is read once, when this process starts.
 """
 from __future__ import annotations
 
