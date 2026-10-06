@@ -1,0 +1,58 @@
+name: Build and Push to Google Artifact Registry
+
+on:
+  push:
+    branches:
+      - main
+
+env:
+  PROJECT_ID: all-lab-446520
+  REGION: europe-west4
+  GAR_REPO: voice-listening-tests-repo
+  IMAGE_NAME: voice-listening-tests
+  # The WIF Provider and SA from your existing Terraform setup
+  WIF_PROVIDER: 'projects/79346217194/locations/global/workloadIdentityPools/github-oidc-pool/providers/github-oidc-provider'
+  SERVICE_ACCOUNT: 'github-cloud-run-deployer@all-lab-446520.iam.gserviceaccount.com'
+
+jobs:
+  build-and-push:
+    name: Build & Push Docker Image
+    runs-on: ubuntu-latest
+    
+    # Required permissions for Workload Identity Federation
+    permissions:
+      contents: 'read'
+      id-token: 'write'
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Authenticate to Google Cloud
+        id: auth
+        uses: google-github-actions/auth@v3
+        with:
+          workload_identity_provider: ${{ env.WIF_PROVIDER }}
+          service_account: ${{ env.SERVICE_ACCOUNT }}
+
+      - name: Set up Cloud SDK
+        uses: google-github-actions/setup-gcloud@v2
+
+      - name: Configure Docker for GAR
+        run: |
+          gcloud auth configure-docker ${{ env.REGION }}-docker.pkg.dev --quiet
+
+      - name: Build Docker Image
+        run: |
+          IMAGE_PATH="${{ env.REGION }}-docker.pkg.dev/${{ env.PROJECT_ID }}/${{ env.GAR_REPO }}/${{ env.IMAGE_NAME }}:${{ github.sha }}"
+          docker build -t $IMAGE_PATH .
+
+      - name: Push Docker Image to GAR
+        run: |
+          IMAGE_PATH="${{ env.REGION }}-docker.pkg.dev/${{ env.PROJECT_ID }}/${{ env.GAR_REPO }}/${{ env.IMAGE_NAME }}:${{ github.sha }}"
+          docker push $IMAGE_PATH
+          
+          # Optional: Tag as latest and push
+          LATEST_PATH="${{ env.REGION }}-docker.pkg.dev/${{ env.PROJECT_ID }}/${{ env.GAR_REPO }}/${{ env.IMAGE_NAME }}:latest"
+          docker tag $IMAGE_PATH $LATEST_PATH
+          docker push $LATEST_PATH
