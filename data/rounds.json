@@ -10,22 +10,16 @@
   "group_name": "English (regional accents)",
   "clips": [
    {
-    "id": "5ef40939ce",
-    "dur": 9.29,
-    "wave": "243scmvmqkomgokgad00tq91qlllorqcqgksucnlqn2jpoompkooqeengb301ma0",
-    "accent": "american"
+    "id": "b74bc6492c",
+    "dur": 10.09,
+    "wave": "21reknolihnpgjhfa11mpgprqgbkknrm61ntmmshpsphniomh11dvrqpqponmli1",
+    "accent": "nigerian"
    },
    {
-    "id": "23cbd851c2",
-    "dur": 12.32,
-    "wave": "dmkmrpo5cksnnqii33jmgqpuqkjqn3fvud22pljnkoh8vunpkupinsmnimppfpoi",
+    "id": "21f1d824c9",
+    "dur": 12.29,
+    "wave": "3rooonnnlmingfgngmjhg1111112mriknmhif21tslvr111112jvnj4jppd11lm2",
     "accent": "east_african"
-   },
-   {
-    "id": "48a688f203",
-    "dur": 17.67,
-    "wave": "87nijmphhkdglb888isla5bmrnlgie977sspgaaihvikfkec367lojf7plgcjof8",
-    "accent": "ghanaian"
    },
    {
     "id": "5c82d2f155",
@@ -34,40 +28,16 @@
     "accent": "nigerian"
    },
    {
-    "id": "7ae8447ec6",
-    "dur": 11.86,
-    "wave": "opnovk42rvqmrmrg11242vsaotukrkotimg10oupn9rmmmqsijrkpdlmsr92ome5",
-    "accent": "nigerian"
-   },
-   {
-    "id": "bc41758b5c",
-    "dur": 10.62,
-    "wave": "kbekllicgeac8a6422kkaqlicac75svpujfd0iappch9ejfa4000dnpfkfgedid8",
-    "accent": "nigerian"
-   },
-   {
-    "id": "b024cb52d5",
-    "dur": 10.92,
-    "wave": "2voutrkpolkidjhjjmehc11116anrnimfi4kshllg92111gsg9110ckia1111oi1",
-    "accent": "ghanaian"
-   },
-   {
-    "id": "6947bfb0f3",
-    "dur": 11.62,
-    "wave": "9m6fogc1lehlhbd993116mg6vsligadachdnjcfiegecedcc432gvvi7ihfadb92",
-    "accent": "ghanaian"
-   },
-   {
-    "id": "b74bc6492c",
-    "dur": 10.09,
-    "wave": "21reknolihnpgjhfa11mpgprqgbkknrm61ntmmshpsphniomh11dvrqpqponmli1",
-    "accent": "nigerian"
-   },
-   {
     "id": "3a25d0651c",
     "dur": 10.31,
     "wave": "gme3nhlimmngmehi7iqqnkokocgo4qvvrbpimhvolfbsnk8lb5qdgpong6osple5",
     "accent": "ghanaian"
+   },
+   {
+    "id": "7ae8447ec6",
+    "dur": 11.86,
+    "wave": "opnovk42rvqmrmrg11242vsaotukrkotimg10oupn9rmmmqsijrkpdlmsr92ome5",
+    "accent": "nigerian"
    },
    {
     "id": "03b66f50de",
@@ -82,10 +52,40 @@
     "accent": "ghanaian"
    },
    {
-    "id": "21f1d824c9",
-    "dur": 12.29,
-    "wave": "3rooonnnlmingfgngmjhg1111112mriknmhif21tslvr111112jvnj4jppd11lm2",
+    "id": "b024cb52d5",
+    "dur": 10.92,
+    "wave": "2voutrkpolkidjhjjmehc11116anrnimfi4kshllg92111gsg9110ckia1111oi1",
+    "accent": "ghanaian"
+   },
+   {
+    "id": "23cbd851c2",
+    "dur": 12.32,
+    "wave": "dmkmrpo5cksnnqii33jmgqpuqkjqn3fvud22pljnkoh8vunpkupinsmnimppfpoi",
     "accent": "east_african"
+   },
+   {
+    "id": "bc41758b5c",
+    "dur": 10.62,
+    "wave": "kbekllicgeac8a6422kkaqlicac75svpujfd0iappch9ejfa4000dnpfkfgedid8",
+    "accent": "nigerian"
+   },
+   {
+    "id": "48a688f203",
+    "dur": 17.67,
+    "wave": "87nijmphhkdglb888isla5bmrnlgie977sspgaaihvikfkec367lojf7plgcjof8",
+    "accent": "ghanaian"
+   },
+   {
+    "id": "5ef40939ce",
+    "dur": 9.29,
+    "wave": "243scmvmqkomgokgad00tq91qlllorqcqgksucnlqn2jpoompkooqeengb301ma0",
+    "accent": "american"
+   },
+   {
+    "id": "6947bfb0f3",
+    "dur": 11.62,
+    "wave": "9m6fogc1lehlhbd993116mg6vsligadachdnjcfiegecedcc432gvvi7ihfadb92",
+    "accent": "ghanaian"
    }
   ]
  },
@@ -100,45 +100,9 @@
   "group_name": "English (regional accents)",
   "clips": [
    {
-    "id": "214918e78f",
-    "dur": 10.93,
-    "wave": "2upvqropilg9osspimlcc11118qkd1lmjh9lhfc11knlkib1111gse21djb21fg1",
-    "accent": "nigerian"
-   },
-   {
-    "id": "1c7430b0e0",
-    "dur": 11.23,
-    "wave": "5qjqlqnomfh2213igeehiacb6cfb22iimgjc222inkighf22ovf92iikf3gojth2",
-    "accent": "nigerian"
-   },
-   {
-    "id": "7d2a4043a9",
-    "dur": 11.77,
-    "wave": "2mrqsplnmgjnaai9ikecc11116qvmcececd511gtnlisl201112jnc21jkc11ii2",
-    "accent": "ghanaian"
-   },
-   {
     "id": "54321191af",
     "dur": 11.75,
     "wave": "3l9ejnaalcleg842116vm9rjplfcg7gejsnvnebggkkbiopffnnot8rrjmgf5pk2",
-    "accent": "ghanaian"
-   },
-   {
-    "id": "2e60f778c3",
-    "dur": 10.35,
-    "wave": "tjptrtirqgkfi72cnn42vrstigilvmlhhpaga0000mvmlgkic1erniamijh6ajhc",
-    "accent": "nigerian"
-   },
-   {
-    "id": "6c4216a2ae",
-    "dur": 7.86,
-    "wave": "2mk99vfonqnejbgh86spqdtmak748k8ponfk6lq7snkh6lsqo8d7mafhhga7rmke",
-    "accent": "ghanaian"
-   },
-   {
-    "id": "5d8991cbe2",
-    "dur": 6.05,
-    "wave": "ottolqahkkoafrspqobplaj3ppvr7r6jfkmmolm3nstvbnka8sdrcqeikd2iong2",
     "accent": "ghanaian"
    },
    {
@@ -148,9 +112,57 @@
     "accent": "american"
    },
    {
+    "id": "7d2a4043a9",
+    "dur": 11.77,
+    "wave": "2mrqsplnmgjnaai9ikecc11116qvmcececd511gtnlisl201112jnc21jkc11ii2",
+    "accent": "ghanaian"
+   },
+   {
+    "id": "1c7430b0e0",
+    "dur": 11.23,
+    "wave": "5qjqlqnomfh2213igeehiacb6cfb22iimgjc222inkighf22ovf92iikf3gojth2",
+    "accent": "nigerian"
+   },
+   {
     "id": "2f48d27c72",
     "dur": 11.29,
     "wave": "lgfpmfigjjikd9a1110anuprpma9k7110jlgnvncinimgjilpsh1252sphqkolk2",
+    "accent": "nigerian"
+   },
+   {
+    "id": "32d867d829",
+    "dur": 16.62,
+    "wave": "lokmnojqnmg81131vo3oosjqo1111crrom711trmorp7111512noha1apmh22rp8",
+    "accent": "ghanaian"
+   },
+   {
+    "id": "595bd00eb1",
+    "dur": 13.71,
+    "wave": "hqltnnhmkhfda001hidrqoffl00ovrvkhnbja0lqklhokh1009opd206phji3ll8",
+    "accent": "nigerian"
+   },
+   {
+    "id": "5d8991cbe2",
+    "dur": 6.05,
+    "wave": "ottolqahkkoafrspqobplaj3ppvr7r6jfkmmolm3nstvbnka8sdrcqeikd2iong2",
+    "accent": "ghanaian"
+   },
+   {
+    "id": "033dcab3e4",
+    "dur": 13.14,
+    "wave": "jnhql7nlpkpnk41gorcaqk322plqloqq81qs93ptpo97ssopoqk3svnhqrudmpl4",
+    "accent": "east_african"
+   },
+   {
+    "id": "2e60f778c3",
+    "dur": 10.35,
+    "wave": "tjptrtirqgkfi72cnn42vrstigilvmlhhpaga0000mvmlgkic1erniamijh6ajhc",
+    "accent": "nigerian"
+   },
+   {
+    "id": "214918e78f",
+    "dur": 10.93,
+    "wave": "2upvqropilg9osspimlcc11118qkd1lmjh9lhfc11knlkib1111gse21djb21fg1",
     "accent": "nigerian"
    },
    {
@@ -160,21 +172,9 @@
     "accent": "east_african"
    },
    {
-    "id": "033dcab3e4",
-    "dur": 13.14,
-    "wave": "jnhql7nlpkpnk41gorcaqk322plqloqq81qs93ptpo97ssopoqk3svnhqrudmpl4",
-    "accent": "east_african"
-   },
-   {
-    "id": "595bd00eb1",
-    "dur": 13.71,
-    "wave": "hqltnnhmkhfda001hidrqoffl00ovrvkhnbja0lqklhokh1009opd206phji3ll8",
-    "accent": "nigerian"
-   },
-   {
-    "id": "32d867d829",
-    "dur": 16.62,
-    "wave": "lokmnojqnmg81131vo3oosjqo1111crrom711trmorp7111512noha1apmh22rp8",
+    "id": "6c4216a2ae",
+    "dur": 7.86,
+    "wave": "2mk99vfonqnejbgh86spqdtmak748k8ponfk6lq7snkh6lsqo8d7mafhhga7rmke",
     "accent": "ghanaian"
    }
   ]
@@ -194,9 +194,9 @@
     "wave": "dtvo6unnghgpibpgbjiejdhmh62opmgrhcegijc22ggrsrnpn9m6mpcimlgemmc4"
    },
    {
-    "id": "7cfba43651",
-    "dur": 14.49,
-    "wave": "guvncnnkfb134ljfjnghffgmike1121hpnjiggffb8121niljh9hfgckejnhhfd6"
+    "id": "631b6cc012",
+    "dur": 17.0,
+    "wave": "2ntshmqrgh32uknrpkimekrnmmg2mlvlojoifoolhk3mmoohhnjlkqoimpmqol53"
    },
    {
     "id": "ec570efd63",
@@ -204,19 +204,19 @@
     "wave": "msvphqpleuc9oiijeelhj2gcdke64nklolebcglf22fkpqrlgpgb5kkbhfccjh93"
    },
    {
-    "id": "7cf5a71c56",
-    "dur": 16.54,
-    "wave": "615ltma5vunjk50qrrqpmgfllgjpa4prsoumljmlhh4qqut50khmqhinlkljhjlf"
-   },
-   {
-    "id": "631b6cc012",
-    "dur": 17.0,
-    "wave": "2ntshmqrgh32uknrpkimekrnmmg2mlvlojoifoolhk3mmoohhnjlkqoimpmqol53"
-   },
-   {
     "id": "9b725cb69d",
     "dur": 20.16,
     "wave": "kvvp911tlfda11fnekbddc53h71ddfh910jlnedbeff510ahmpkgdbgd7difchc4"
+   },
+   {
+    "id": "7cfba43651",
+    "dur": 14.49,
+    "wave": "guvncnnkfb134ljfjnghffgmike1121hpnjiggffb8121niljh9hfgckejnhhfd6"
+   },
+   {
+    "id": "7cf5a71c56",
+    "dur": 16.54,
+    "wave": "615ltma5vunjk50qrrqpmgfllgjpa4prsoumljmlhh4qqut50khmqhinlkljhjlf"
    },
    {
     "id": "1bdb2a6c00",
@@ -245,14 +245,14 @@
     "wave": "kvrcrsnl4qrqurrerf5pqtkpgptvrslnrt5loj32vjvc2opkqngtfuv7lqssqpe8"
    },
    {
-    "id": "9aa6a58a20",
-    "dur": 23.4,
-    "wave": "qscnpb5rnmkshk7oprrpljrkos1pi0fpriqnkjnopdhke4utvlolmhvjrqkni9ml"
-   },
-   {
     "id": "c992301594",
     "dur": 13.76,
     "wave": "fvt911ttpp111hpmfnogefc5loiog411blogiffhgcd3117nmiggeddc4ikidda6"
+   },
+   {
+    "id": "9aa6a58a20",
+    "dur": 23.4,
+    "wave": "qscnpb5rnmkshk7oprrpljrkos1pi0fpriqnkjnopdhke4utvlolmhvjrqkni9ml"
    }
   ]
  },
@@ -266,9 +266,19 @@
   "group_name": "English (regional accents)",
   "clips": [
    {
+    "id": "d1ef2c8e7c",
+    "dur": 16.32,
+    "wave": "rvvfrmmpojk7tmippnmddf6rtimjhhhpifoiekjdbbivvtsgmkpbmrqkqtrpnmb6"
+   },
+   {
     "id": "cd1c0dba3a",
     "dur": 13.82,
     "wave": "olneqroogoflljkrfghhgcvikijjmlmjgigcfpdfcgaojofnjlkkfmsgjgckdcgc"
+   },
+   {
+    "id": "61cc8b88e8",
+    "dur": 15.49,
+    "wave": "qvmc5cvqki923pkibtlkeglnilf523khlgjjgkfeeb126pkhibdjdeehddkefec6"
    },
    {
     "id": "fec3de02c8",
@@ -279,16 +289,6 @@
     "id": "fdce0b65dc",
     "dur": 14.25,
     "wave": "9hl8nugff61kphnhfka94eogkl90qnnkofafcfa71shoakvpslrnene0flrmgjqg"
-   },
-   {
-    "id": "61cc8b88e8",
-    "dur": 15.49,
-    "wave": "qvmc5cvqki923pkibtlkeglnilf523khlgjjgkfeeb126pkhibdjdeehddkefec6"
-   },
-   {
-    "id": "d1ef2c8e7c",
-    "dur": 16.32,
-    "wave": "rvvfrmmpojk7tmippnmddf6rtimjhhhpifoiekjdbbivvtsgmkpbmrqkqtrpnmb6"
    }
   ]
  },
@@ -302,14 +302,14 @@
   "group_name": "English (regional accents)",
   "clips": [
    {
-    "id": "c3669d1d0e",
-    "dur": 22.08,
-    "wave": "jvq5211npqr1219rkon8pnm2prrn9112ornmnpkne11119rl7pnkmbql2oqunpqh"
-   },
-   {
     "id": "1f6f017129",
     "dur": 14.0,
     "wave": "dvo5avhda1111encdjcce9aeade71111kpokbddcb931118lskifgbbe7af8aa96"
+   },
+   {
+    "id": "2b2d801c48",
+    "dur": 15.38,
+    "wave": "mkjgisrqsgkamj6ergehdebshmhgdvjhjhqfhhgjjhbkpqg8cki5k6qnjkjndgia"
    },
    {
     "id": "21a007b684",
@@ -317,9 +317,9 @@
     "wave": "nnkevnmhoaokdnfedjlemnlgmgqml6mhihcdligihdnhoaprgnnjiloeihblghld"
    },
    {
-    "id": "2b2d801c48",
-    "dur": 15.38,
-    "wave": "mkjgisrqsgkamj6ergehdebshmhgdvjhjhqfhhgjjhbkpqg8cki5k6qnjkjndgia"
+    "id": "c3669d1d0e",
+    "dur": 22.08,
+    "wave": "jvq5211npqr1219rkon8pnm2prrn9112ornmnpkne11119rl7pnkmbql2oqunpqh"
    },
    {
     "id": "4bfae9e519",
@@ -338,6 +338,21 @@
   "group_name": "English (regional accents)",
   "clips": [
    {
+    "id": "e71b293848",
+    "dur": 17.44,
+    "wave": "jquc14vtns81lskkummjmk3irnjkb22ssnollmlkmjb2hpnnkhmtjlolimoklmia"
+   },
+   {
+    "id": "c675182b3d",
+    "dur": 13.24,
+    "wave": "5prismkfh1mskfvmfiljrjorj2ssvpqnfellhmhg11ustvqjqqdugqqfksqlprte"
+   },
+   {
+    "id": "74c0e4b30e",
+    "dur": 14.25,
+    "wave": "2psn6dvjle324epkdaqhecgjidfg62336ntpldgfigd9114fasongfehhejlig99"
+   },
+   {
     "id": "11beb2675d",
     "dur": 13.63,
     "wave": "ptpgvpqllmpjkppnoqnpnnpprmrgpqonmlolmpnjfroookqhspdstkolsopqqoi7"
@@ -348,9 +363,9 @@
     "wave": "dhe70rjjffg3dncmdbgc7mrefod1mkjficdffcahc6g6vpn4hlkebka9gpgecgk9"
    },
    {
-    "id": "c675182b3d",
-    "dur": 13.24,
-    "wave": "5prismkfh1mskfvmfiljrjorj2ssvpqnfellhmhg11ustvqjqqdugqqfksqlprte"
+    "id": "74325510c2",
+    "dur": 25.82,
+    "wave": "755sq95gvtpg55srvsi65mi9tuvt86mvrjlre55qlaeob5srnliod5cmqnnfa5sp"
    },
    {
     "id": "64d6e0c3f6",
@@ -358,24 +373,9 @@
     "wave": "pth0vvqhe200vlpplhgjg2oklkmbilrnmhbadefeab1qhvpifqogfkf6llqlihb6"
    },
    {
-    "id": "74325510c2",
-    "dur": 25.82,
-    "wave": "755sq95gvtpg55srvsi65mi9tuvt86mvrjlre55qlaeob5srnliod5cmqnnfa5sp"
-   },
-   {
     "id": "e4d8516086",
     "dur": 13.24,
     "wave": "7lmf5cvllhlnodpoibjfenhine4bropmkcbjgh8i5antookkkf7lhhmihgjjfcea"
-   },
-   {
-    "id": "e71b293848",
-    "dur": 17.44,
-    "wave": "jquc14vtns81lskkummjmk3irnjkb22ssnollmlkmjb2hpnnkhmtjlolimoklmia"
-   },
-   {
-    "id": "74c0e4b30e",
-    "dur": 14.25,
-    "wave": "2psn6dvjle324epkdaqhecgjidfg62336ntpldgfigd9114fasongfehhejlig99"
    }
   ]
  },
@@ -389,24 +389,9 @@
   "group_name": "English (regional accents)",
   "clips": [
    {
-    "id": "3a5d07272c",
-    "dur": 13.82,
-    "wave": "7cvrd14svog211aumlorkidahjokd431krqpsijlgh91137mlnogehgeiaeiee85"
-   },
-   {
-    "id": "a357123cf8",
-    "dur": 12.3,
-    "wave": "ssqrvrqrdqommrppljkjnumnomllhihijkpi335nssrprqimnnjkiemokilhmii3"
-   },
-   {
-    "id": "33e8eb9334",
-    "dur": 30.96,
-    "wave": "hn1gmr07sd0i8innviclfkbmkvkgknghgkf1jrhoefelc1802tsttrgl9ouhterd"
-   },
-   {
-    "id": "08c1f5a333",
-    "dur": 15.56,
-    "wave": "flinhgcb11mmclidfhe4dhbjj90prptpbdggk9a0chvvvnnqc9nd1erjfghe5002"
+    "id": "b88e9874e5",
+    "dur": 19.46,
+    "wave": "8205vq91ssln91jurpvkjjgd6rmnp5rupsehjogml00oosslkjllbcuidpqljmia"
    },
    {
     "id": "99eced8ee6",
@@ -414,14 +399,29 @@
     "wave": "ovn01dsnkdc0glemkkhfek9fglfh7lkolfncegiegc8iipkko9le9jffjjghefc6"
    },
    {
-    "id": "b88e9874e5",
-    "dur": 19.46,
-    "wave": "8205vq91ssln91jurpvkjjgd6rmnp5rupsehjogml00oosslkjllbcuidpqljmia"
+    "id": "a357123cf8",
+    "dur": 12.3,
+    "wave": "ssqrvrqrdqommrppljkjnumnomllhihijkpi335nssrprqimnnjkiemokilhmii3"
+   },
+   {
+    "id": "3a5d07272c",
+    "dur": 13.82,
+    "wave": "7cvrd14svog211aumlorkidahjokd431krqpsijlgh91137mlnogehgeiaeiee85"
+   },
+   {
+    "id": "08c1f5a333",
+    "dur": 15.56,
+    "wave": "flinhgcb11mmclidfhe4dhbjj90prptpbdggk9a0chvvvnnqc9nd1erjfghe5002"
    },
    {
     "id": "4d66d27226",
     "dur": 15.06,
     "wave": "34lomvnigjj3pqhljljqfgnghhpfpnnlnlidgkgkkc8ssqpqukqiincipiffhim9"
+   },
+   {
+    "id": "33e8eb9334",
+    "dur": 30.96,
+    "wave": "hn1gmr07sd0i8innviclfkbmkvkgknghgkf1jrhoefelc1802tsttrgl9ouhterd"
    }
   ]
  },
@@ -435,14 +435,24 @@
   "group_name": "Afrikaans",
   "clips": [
    {
+    "id": "632f993c29",
+    "dur": 24.46,
+    "wave": "peficrcbnogl70poihklhqilmlosonlf5ocmk3slpiorqh2vlnsmpoljqqllqkte"
+   },
+   {
     "id": "42288e4b85",
     "dur": 29.62,
     "wave": "he101bjhb3okf4omiffffgc6pdnjheebd4ljcegc1002612411vmjfee3dmgidb7"
    },
    {
-    "id": "632f993c29",
-    "dur": 24.46,
-    "wave": "peficrcbnogl70poihklhqilmlosonlf5ocmk3slpiorqh2vlnsmpoljqqllqkte"
+    "id": "8364725a4a",
+    "dur": 24.91,
+    "wave": "pvbmmamkc1opif16ojjikhdjohe91gpkmgeljh45hojkkhi84lkllki81mijgjhc"
+   },
+   {
+    "id": "af31b4f817",
+    "dur": 24.03,
+    "wave": "tq6no6rg4png91voipjoiqionce6sspmcbpjc6lsmikjbeacsklhjg6irkjhlde7"
    }
   ]
  },
@@ -455,6 +465,21 @@
   "text": "Goeiemôre. Good morning, how are you today? Hoe gaan dit vandag met jou? Please call Anika by 8:30 AM tomorrow to confirm the meeting in Cape Town. Die mark is baie besig vanmiddag, so ons moet vroeg vertrek. The bus will leave at 6:45 on Saturday. Hoe laat vertrek die bus na die stad Saterdag? About 25 people from the office will travel.",
   "group_name": "Afrikaans",
   "clips": [
+   {
+    "id": "b1ded00017",
+    "dur": 24.46,
+    "wave": "a6ckdujghrmdoprolkkmc1hovoiaqjoichhkj1tnuinqokbuqopnppi0qkqlrkqe"
+   },
+   {
+    "id": "36c4178562",
+    "dur": 24.42,
+    "wave": "9vp2cspmg3kjb23gllhekheblbb315mbmfdie951dmhkgdb12kihfff31himgfd6"
+   },
+   {
+    "id": "93d5df0741",
+    "dur": 24.03,
+    "wave": "up6qnmrg2tqk32urnptuppmvqpob2nqornprti2nsppurj22upsrsi22stroqspb"
+   },
    {
     "id": "dd90c29399",
     "dur": 24.73,
@@ -472,9 +497,19 @@
   "group_name": "Afrikaans",
   "clips": [
    {
+    "id": "eb52590195",
+    "dur": 15.73,
+    "wave": "ruh61mrpnfb21dsqqvlfo8krnqic41ovlroighhhb111rppmrntskejeolljmgf9"
+   },
+   {
     "id": "4b7a9db0ac",
     "dur": 16.04,
     "wave": "23kpsemilgihl32kljmkdlj43inihih713fvhplmoljpngonjjplliihnjimhea3"
+   },
+   {
+    "id": "31ac7ebdf6",
+    "dur": 15.83,
+    "wave": "avti1oqkhla11nshisjhfermild9511pjemjihljh211nkkokqlgd8dofqgfcca5"
    },
    {
     "id": "673ecb6cc9",
@@ -493,6 +528,11 @@
   "group_name": "Afrikaans",
   "clips": [
    {
+    "id": "a875cee7d9",
+    "dur": 13.4,
+    "wave": "stolgqqppok9ltonqoqojpqqsqnf2rsqpvovtojl9rrqsqlirourkqusomnnovuj"
+   },
+   {
     "id": "bfb8105ee3",
     "dur": 16.76,
     "wave": "486ggb255vmjfh8ponqrffoellki814ktrmskrjukc22qtgefjciia6hfldlhelb"
@@ -501,6 +541,11 @@
     "id": "d99b528071",
     "dur": 15.02,
     "wave": "gka8eoikgc01rlmniig70dpmhjfi20vnljkhiild1onee0lossoicijlplkkhjf3"
+   },
+   {
+    "id": "ea12238430",
+    "dur": 15.37,
+    "wave": "9vsc1opgf22104vkkpjci9oajlib431lomlnhhfec11011milponmmfbmmmheea4"
    }
   ]
  },
@@ -535,14 +580,14 @@
   "group_name": "Afrikaans",
   "clips": [
    {
-    "id": "3c89547f65",
-    "dur": 13.85,
-    "wave": "22hmikmhe514g9rgkqmdrnfjablpisdsgokccdog76ckh23enrvgnujnqmfhggo7"
-   },
-   {
     "id": "fec7bc9514",
     "dur": 16.41,
     "wave": "d62eur752vtorogd2rthmgm9gh8nnqpnejeiilaenf24rvrodsmieqa2fnkifjec"
+   },
+   {
+    "id": "3c89547f65",
+    "dur": 13.85,
+    "wave": "22hmikmhe514g9rgkqmdrnfjablpisdsgokccdog76ckh23enrvgnujnqmfhggo7"
    }
   ]
  },
@@ -556,9 +601,9 @@
   "group_name": "Amharic",
   "clips": [
    {
-    "id": "f3db38b1dd",
-    "dur": 33.45,
-    "wave": "ic40ma0sg9lna2qjgddahkfg5pkhjggdabkhg8nhgchd6vopvqmnlrk1isllqjnm"
+    "id": "a9c7d6e1f9",
+    "dur": 22.43,
+    "wave": "njghoh4nrlhgnmnhehhjscpsnrukkkiqnfmhctfmqleri2pmfilonvrcpfhekfqj"
    },
    {
     "id": "d0d060e2b3",
@@ -566,9 +611,9 @@
     "wave": "kkhjhinqbiq4qt4nkhqjjifcsuiqkkg9snol9rij54knfb1svnpkhjj8onlgjnjb"
    },
    {
-    "id": "a9c7d6e1f9",
-    "dur": 22.43,
-    "wave": "njghoh4nrlhgnmnhehhjscpsnrukkkiqnfmhctfmqleri2pmfilonvrcpfhekfqj"
+    "id": "f3db38b1dd",
+    "dur": 33.45,
+    "wave": "ic40ma0sg9lna2qjgddahkfg5pkhjggdabkhg8nhgchd6vopvqmnlrk1isllqjnm"
    }
   ]
  },
@@ -581,6 +626,16 @@
   "text": "እንደምን አደሩ። Good morning, how are you today? ዛሬ እንዴት ነዎት? Please call Hana by 8:30 AM tomorrow to confirm the meeting in Addis Ababa. ገበያው ዛሬ ከሰዓት በኋላ በጣም ይጨናነቃል፣ ስለዚህ ቀድመን መሄድ አለብን። The bus will leave at 6:45 on Saturday. ቅዳሜ ወደ ከተማው የሚሄደው አውቶቡስ ስንት ሰዓት ነው? About 25 people from the office will travel.",
   "group_name": "Amharic",
   "clips": [
+   {
+    "id": "64290c102d",
+    "dur": 25.26,
+    "wave": "vrflq3oeapc3liljjiiekigd32smghgff8hgif92mmfhgfc2nkmif9g93kjiefdc"
+   },
+   {
+    "id": "d84df4a3c4",
+    "dur": 22.65,
+    "wave": "af00c000e0bf500a00a00g000a00gei03rf6vvpuidvt0mqbejpb0ponlpsl7lod"
+   },
    {
     "id": "0a16ff1fdf",
     "dur": 28.14,
@@ -603,9 +658,9 @@
   "group_name": "Amharic",
   "clips": [
    {
-    "id": "ec5a119fce",
-    "dur": 8.42,
-    "wave": "360000000r20000002k0000008a00000209npmnn4oojupl2odovtodjstoomqb0"
+    "id": "f385631a9c",
+    "dur": 18.68,
+    "wave": "21mlg2uoe4kvsiksmgf1vqsrjdcvrkvmkikk710omgli6rnmhmia21qstcm1nj9d"
    },
    {
     "id": "29ff401268",
@@ -613,9 +668,9 @@
     "wave": "lll1sokicvqmpkpmllmrrnogmp58ojihbknimome2nllkroveeollgprlqnmripl"
    },
    {
-    "id": "f385631a9c",
-    "dur": 18.68,
-    "wave": "21mlg2uoe4kvsiksmgf1vqsrjdcvrkvmkikk710omgli6rnmhmia21qstcm1nj9d"
+    "id": "ec5a119fce",
+    "dur": 8.42,
+    "wave": "360000000r20000002k0000008a00000209npmnn4oojupl2odovtodjstoomqb0"
    }
   ]
  },
@@ -629,9 +684,14 @@
   "group_name": "Amharic",
   "clips": [
    {
-    "id": "a0094c7766",
-    "dur": 26.39,
-    "wave": "rjhgr0uh10voh06lpb0eqjd08qopj00jrjlon40nnlj30jnnrjhlp60jknl79kld"
+    "id": "ddc374c643",
+    "dur": 17.51,
+    "wave": "qvke31rre117tphggcfea5ddgd5221kqgiigfefc711bfe4liihgffc4bffdcdb6"
+   },
+   {
+    "id": "e43ea2f334",
+    "dur": 15.52,
+    "wave": "nruvvqoqvqhrplpjlo6bvvpsqk4urolonoijhnd3frrqognhspnn5iturrilplld"
    },
    {
     "id": "49e0d7faed",
@@ -639,9 +699,9 @@
     "wave": "vpmvm2ortomqrolptnqmmiuprrtqkmo112qh27onmqc22orqmkotp9nuufmuq972"
    },
    {
-    "id": "e43ea2f334",
-    "dur": 15.52,
-    "wave": "nruvvqoqvqhrplpjlo6bvvpsqk4urolonoijhnd3frrqognhspnn5iturrilplld"
+    "id": "a0094c7766",
+    "dur": 26.39,
+    "wave": "rjhgr0uh10voh06lpb0eqjd08qopj00jrjlon40nnlj30jnnrjhlp60jknl79kld"
    }
   ]
  },
@@ -676,14 +736,14 @@
   "group_name": "Amharic",
   "clips": [
    {
-    "id": "b3a6d97478",
-    "dur": 13.85,
-    "wave": "bsuq6qotvonmrprusomjqptno4ppvpo3notvpo36rqgpblmmkln3stptuqosl535"
-   },
-   {
     "id": "47080c3c8b",
     "dur": 8.5,
     "wave": "3knnctrkidl603jpmiqrlqkjmtqj3inqojkdbloidfc1oovsbnojfomejomjjqh7"
+   },
+   {
+    "id": "b3a6d97478",
+    "dur": 13.85,
+    "wave": "bsuq6qotvonmrprusomjqptno4ppvpo3notvpo36rqgpblmmkln3stptuqosl535"
    }
   ]
  },
@@ -696,6 +756,16 @@
   "text": "صباح الخير. Good morning, how are you today? كيف حالك اليوم؟ Please call Mariam by 8:30 AM tomorrow to confirm the meeting in Cairo. السوق مزدحم جدًا بعد ظهر اليوم، لذلك يجب أن نغادر مبكرًا. The bus will leave at 6:45 on Saturday. في أي وقت تغادر الحافلة المتجهة إلى المدينة يوم السبت؟ About 25 people from the office will travel.",
   "group_name": "Arabic",
   "clips": [
+   {
+    "id": "43fd8cedb2",
+    "dur": 26.26,
+    "wave": "klfqvcpo8kmi8dvqrmpkcqqid3jqoommftpooic1rqllkg8ipnmopjok5hokjlgd"
+   },
+   {
+    "id": "b8ee5acff9",
+    "dur": 29.23,
+    "wave": "qmevbvfkpk7vulsklopoqjblsroml6vqokf6rskonpnjjf7uqsomnmhcnrppknib"
+   },
    {
     "id": "bfe6d8d6b4",
     "dur": 26.29,
@@ -716,6 +786,16 @@
     "id": "f73ed3b9dd",
     "dur": 28.13,
     "wave": "lnaslvn3skfqstpjnvtotrofspktroevtqvncuuoftnq8knrpmnpnpl0qmvsqkue"
+   },
+   {
+    "id": "2f5bb49e1b",
+    "dur": 29.31,
+    "wave": "thlsqtbjp93uvuqosvntnn2lssotllutrlb1tsopuqssri1prtpqpqk41vsnoupf"
+   },
+   {
+    "id": "a46296a4c3",
+    "dur": 25.95,
+    "wave": "hqnovsqjmjbbrqlmlmrerpjb1nommki4rplmi9eqoijmg7hqlllikjlk3grlkked"
    }
   ]
  },
@@ -729,9 +809,19 @@
   "group_name": "Arabic",
   "clips": [
    {
+    "id": "64186c6872",
+    "dur": 19.07,
+    "wave": "sfc1jnjf11jqrhic1epopbulpponc615vqroolmlqmk611rk4hopnndvnejonnjc"
+   },
+   {
     "id": "27bb680b7d",
     "dur": 17.89,
     "wave": "iona2qoql2gkhmjlmnjmdodojokkg32jvoqnnjrnkpii5jokokspkimkgdlhsmn7"
+   },
+   {
+    "id": "5e4f75c34d",
+    "dur": 17.36,
+    "wave": "jvj8hpnl711lvorqnlnd6vquqqnhf31pulppmmqkmsid32qqjmrommphpioqife8"
    }
   ]
  },
@@ -744,6 +834,16 @@
   "text": "صباح الخير. كيف حالك اليوم؟ السوق مزدحم جدًا بعد ظهر اليوم، لذلك يجب أن نغادر مبكرًا. في أي وقت تغادر الحافلة المتجهة إلى المدينة يوم السبت؟ من فضلك اتصل بمريم غدًا في الثامنة والنصف لتأكيد الاجتماع في القاهرة.",
   "group_name": "Arabic",
   "clips": [
+   {
+    "id": "667122c458",
+    "dur": 21.46,
+    "wave": "moe31ropj21jplinmmm2opnnnoje31lvpnohnljkmkh31nn5npqmqgpphjnpmiea"
+   },
+   {
+    "id": "5f1b19267d",
+    "dur": 19.07,
+    "wave": "rtf21opl321srsqqrpl3uhvprph421nucsouqvssumg624uh7rrusrtsr6qsptnk"
+   },
    {
     "id": "f5285689ff",
     "dur": 16.88,
@@ -841,6 +941,11 @@
   "group_name": "Bemba",
   "clips": [
    {
+    "id": "684f710270",
+    "dur": 25.37,
+    "wave": "rv2qnloc2ro81gmqjjikhfmfc21qnljhd3trjegc17pnggd52ipnmhf82fnmnic9"
+   },
+   {
     "id": "89875a40a8",
     "dur": 18.24,
     "wave": "3kmmb23jnnpqe32mojnuk5pnlg2qvplvo24mrkprgc24nltpmpbolp8il2dmklj4"
@@ -873,6 +978,11 @@
   "group_name": "Bemba",
   "clips": [
    {
+    "id": "241ab9af12",
+    "dur": 18.06,
+    "wave": "ovo11pqg211gpkpomhig3crrogeie811jjnqmlfafe111hprghnmfei6ahnooje6"
+   },
+   {
     "id": "23a456e1cb",
     "dur": 3.44,
     "wave": "33222gn97iruurvtkqurrqd3gprg5323322229mnptpog6jifknmfc9fkc532322"
@@ -889,6 +999,11 @@
   "group_name": "Berber (Tamazight / Kabyle)",
   "clips": [
    {
+    "id": "c8343a8fc5",
+    "dur": 28.35,
+    "wave": "pocvmjnk3pmeepjgglmhlnhpjjajlkhihhmiii2nmhjikgebsihnljl5kkmiliib"
+   },
+   {
     "id": "c8a2934138",
     "dur": 17.25,
     "wave": "hjkkgdsniro62lmsrgc9vsqtoptlulqnthfvt4lqlkjff5ejqvhdmppmjghloi9f"
@@ -904,6 +1019,11 @@
   "text": "Azul. Good morning, how are you today? Amek telliḍ ass-a? Please call Tiziri by 8:30 AM tomorrow to confirm the meeting in Rabat. Suq yella d aččar ass-a deg tmeddit, ihi ilaq ad nruh zik. The bus will leave at 6:45 on Saturday. Melmi i d-teffeɣ lkar i tmana n tɣiwant ass n ssebt? About 25 people from the office will travel.",
   "group_name": "Berber (Tamazight / Kabyle)",
   "clips": [
+   {
+    "id": "3fa9194623",
+    "dur": 25.67,
+    "wave": "qhlt3vi1gtn2jvsokloijqojc1imrnjkbrnja1npnile81ponpnhh2l81onljmfg"
+   },
    {
     "id": "df298f24a2",
     "dur": 25.32,
@@ -924,6 +1044,11 @@
     "id": "c80b35e565",
     "dur": 13.98,
     "wave": "dql5112224egc23jn4tpmqgk34lkojll3ndrgdn81123kptoagmhmn29vei5aopk"
+   },
+   {
+    "id": "caf7e52f02",
+    "dur": 20.66,
+    "wave": "pqgclicaorimjlg3nlnnne621pvlekljitiqjfa21smn5ikrkhjrh94nnkolanl9"
    }
   ]
  },
@@ -940,6 +1065,11 @@
     "id": "fa39a39b0c",
     "dur": 26.56,
     "wave": "l28qrb3blmnkpmi1srqj8vlmdvfqpqr8nc1sqb1aq8fttq8mqdrmmuroor2uvoog"
+   },
+   {
+    "id": "f03aa8714f",
+    "dur": 16.08,
+    "wave": "vqc1onqe11lponjhd42hrkoob311qlmoqmqgoif321qpl3rmnnjejd42gnippeg4"
    }
   ]
  },
@@ -952,6 +1082,16 @@
   "text": "M'mawa wabwino. Good morning, how are you today? Muli bwanji lero? Please call Thandiwe by 8:30 AM tomorrow to confirm the meeting in Lilongwe. Msika uli wodzaza kwambiri masana ano, choncho tiyenera kunyamuka msanga. The bus will leave at 6:45 on Saturday. Basi yopita ku mzinda imanyamuka nthawi yanji Loweruka? About 25 people from the office will travel.",
   "group_name": "Chichewa (Nyanja)",
   "clips": [
+   {
+    "id": "cdb97bbfe1",
+    "dur": 34.9,
+    "wave": "vl6qemetn9ppjhrrjmokjlsloldosnpkesnj8nnommipolljgdrqrlhanqoojlgc"
+   },
+   {
+    "id": "78e0344123",
+    "dur": 30.74,
+    "wave": "vrk8sikg2pg12nmkkiiihlhf12njojjf4mkpkh21mkgig92aljonpljh22nmhihh"
+   },
    {
     "id": "41b357004e",
     "dur": 26.6,
@@ -969,6 +1109,16 @@
   "group_name": "Chichewa (Nyanja)",
   "clips": [
    {
+    "id": "74bd469da5",
+    "dur": 27.09,
+    "wave": "pvsdl9ib22jqe35pojgihfnif32knnjifhimi92fphhdb421jlilnhjd31glkicc"
+   },
+   {
+    "id": "6d9d43c143",
+    "dur": 33.44,
+    "wave": "vk8snikvn1rsirrlmpommjthc1nunmelrhg1msonqknomlhd1hpqnom2epvlojed"
+   },
+   {
     "id": "9f5f53d5a0",
     "dur": 40.6,
     "wave": "bvlinrifjpm8ol6ntmngojojlfqtunniopokje5qpkjhroisrokoonomqqsmojr8"
@@ -985,9 +1135,19 @@
   "group_name": "Chichewa (Nyanja)",
   "clips": [
    {
+    "id": "b1b78df442",
+    "dur": 18.63,
+    "wave": "vupl822qqj9013nnmgjhee8cmokhea11jnjlljmjljib11roink9khh5lmlklgh7"
+   },
+   {
     "id": "716681f77f",
     "dur": 18.08,
     "wave": "mnj8gsnl5itvqojlinomikj4ntskomjjlkga2110sulippeomhke1rkigjkigjnc"
+   },
+   {
+    "id": "7da0b4e90e",
+    "dur": 18.2,
+    "wave": "srke1gvng6bpmqjllid6cnqjhjc61knkoqnijmkg91qvoknigekgarkknnohgie8"
    }
   ]
  },
@@ -1001,9 +1161,19 @@
   "group_name": "Chichewa (Nyanja)",
   "clips": [
    {
+    "id": "308d8e0c24",
+    "dur": 22.5,
+    "wave": "rvm21irh21ck8nnihcj85n4kkch611mlnhg3omhfbh518p4qminajgb4kjigfee8"
+   },
+   {
     "id": "6d288989f8",
     "dur": 10.76,
     "wave": "4546qpogmroaqlmplprl53vqqigrgdisthkgndmkfmbghnp4jhllljnoog684666"
+   },
+   {
+    "id": "85351729cb",
+    "dur": 18.49,
+    "wave": "osnc1ismb1mmvrlrmkd5lpmsjgg51mqqnsqnnlnjm91rvtntpiihldolloijhcc6"
    }
   ]
  },
@@ -1064,14 +1234,14 @@
   "group_name": "Ewe",
   "clips": [
    {
-    "id": "a52d73813d",
-    "dur": 25.67,
-    "wave": "gtvnjn1lkl5alemddfmnkopfkih3tfkqdlsmokjjf118rkgnqlnepkrhmjiljgi1"
-   },
-   {
     "id": "35db94acb1",
     "dur": 15.23,
     "wave": "nrulpsnllhjqpogonhekrromhgcqmmemoljfolghfcnldivofmqompiggelogjcd"
+   },
+   {
+    "id": "a52d73813d",
+    "dur": 25.67,
+    "wave": "gtvnjn1lkl5alemddfmnkopfkih3tfkqdlsmokjjf118rkgnqlnepkrhmjiljgi1"
    }
   ]
  },
@@ -1085,14 +1255,14 @@
   "group_name": "Ewe",
   "clips": [
    {
-    "id": "f56e31d17b",
-    "dur": 15.3,
-    "wave": "pvusttpprppvmrqtlmpvvrvtpootttiqumrpvsttqlqqihutuoptqrmljjqumohi"
-   },
-   {
     "id": "a54a69c2bd",
     "dur": 26.47,
     "wave": "9nrfhqnjkf33rlqmjhth5qmmlf2orqpfpmjmle54jkk44ovi4jnrbpp7lmroah75"
+   },
+   {
+    "id": "f56e31d17b",
+    "dur": 15.3,
+    "wave": "pvusttpprppvmrqtlmpvvrvtpootttiqumrpvsttqlqqihutuoptqrmljjqumohi"
    },
    {
     "id": "714b4633e1",
@@ -1178,6 +1348,11 @@
     "id": "932e7ee2e5",
     "dur": 28.88,
     "wave": "mlsorroirtpmlllhqojooljbvtosrqmponod9oqllisokqqnsfjvnojnrnqmgbro"
+   },
+   {
+    "id": "8dd0e9b288",
+    "dur": 27.47,
+    "wave": "pt2ru8rs21vp61pmpkkmjhqha21vtumm81pvlqj11muqjjg30svnnpmh21nmkmhf"
    }
   ]
  },
@@ -1194,6 +1369,11 @@
     "id": "69581b0202",
     "dur": 30.53,
     "wave": "ksioqmmknj4rm2sooulrpnkmqtnniupvtupnd22jtok2prpmsmnqnd2rkslmr9uj"
+   },
+   {
+    "id": "4ee445d1cb",
+    "dur": 27.13,
+    "wave": "ps117rql2hqi1ojfeeehi3inic18vtnlf1lhib1nlnjgigb1ijppplh22qlpljdd"
    }
   ]
  },
@@ -1210,6 +1390,11 @@
     "id": "ede616faa5",
     "dur": 18.48,
     "wave": "n5rvtqnrpl6urnvqkusoqskl6vssbmstonsipsbkitoomh78sqrtqk5rvmottlkh"
+   },
+   {
+    "id": "1eb9f5be06",
+    "dur": 18.23,
+    "wave": "2rsi12rjf433ovmsnrih708qninga43hmhmtknfllg921kpkghgkjhkf9ihmlja7"
    }
   ]
  },
@@ -1222,6 +1407,11 @@
   "text": "Jam waali. No mbada hannde? Luumo ɗo heewi neɗɗo sanne hannde, ɗum waɗi en fotii yahrude law. Sahaa hol no bas oo yahrata to wuro nder Aset? Tiiɗno noddu Aissatou subaka jango e nder 8:30 ngam tabbitinde hawrude e Dakar.",
   "group_name": "Fula (Pulaar)",
   "clips": [
+   {
+    "id": "1e3acbffbd",
+    "dur": 21.95,
+    "wave": "ps111uo711hvretllf211soe2bjpkn111hqnsmjpk6111osnkmllm2gmk6cloli8"
+   },
    {
     "id": "68984f4d2e",
     "dur": 20.01,
@@ -1249,19 +1439,24 @@
     "wave": "msvqprpmdnppvrromqmqqinnmgilro9buqrnldmknqlliilgqfomnokskmmppkla"
    },
    {
-    "id": "93aa7cdd1a",
-    "dur": 20.46,
-    "wave": "ikilobqqf20pkvtrkqkmlfoonkjkfli1rrrjkdglqpje2solpcfmvgsql0rnrhpk"
-   },
-   {
     "id": "539f67350a",
     "dur": 14.87,
     "wave": "iqmsvqki9oipqolkkojtqlno3nqimi6erqmjhhismki2rkqpnoqokndmf5iqqmhl"
    },
    {
+    "id": "93aa7cdd1a",
+    "dur": 20.46,
+    "wave": "ikilobqqf20pkvtrkqkmlfoonkjkfli1rrrjkdglqpje2solpcfmvgsql0rnrhpk"
+   },
+   {
     "id": "da0bdaef69",
     "dur": 15.04,
     "wave": "rrgqpojtifvnhrjqerjprjpinkepqjfgpjppngjoofmfnkiskdljhdoiodonijde"
+   },
+   {
+    "id": "7b2dd24195",
+    "dur": 19.86,
+    "wave": "nv1tqhjh1apghhfdgheecdrgkkfddb1lhebegjecmedge74ojhlgddeec7kllcff"
    }
   ]
  },
@@ -1275,14 +1470,19 @@
   "group_name": "Hausa",
   "clips": [
    {
+    "id": "e0e3f66227",
+    "dur": 18.49,
+    "wave": "qu2mv8uqi1phnrlkonnjlglrpqrleif1oqtkklqqjnlfoi9jpltmkdonhafpvcoh"
+   },
+   {
     "id": "ea27ea1365",
     "dur": 16.21,
     "wave": "5jl3aspuvq9qophordotvqsmqmsmgpq9hqe3ktl98tnqinmsroklipn7nhhqfj54"
    },
    {
-    "id": "a4897d9e16",
-    "dur": 18.65,
-    "wave": "ou1avm1tpf3gfk9mqnilfplj4qhimpgjn52mmmgfgjjenhe8pklmmgmkkk8foshj"
+    "id": "4bfc194aab",
+    "dur": 15.88,
+    "wave": "lq9ouute5njuurnphnjnepmisjljmqchvurkmoqsrhm9ktslrinqiqmh5vqroqv5"
    },
    {
     "id": "cdd0c24dca",
@@ -1295,14 +1495,14 @@
     "wave": "hstv6mkkks5mno8iokmqoqbrnlstleqp5krolknkfnpno6knpsoo9mrrmvefptom"
    },
    {
-    "id": "4bfc194aab",
-    "dur": 15.88,
-    "wave": "lq9ouute5njuurnphnjnepmisjljmqchvurkmoqsrhm9ktslrinqiqmh5vqroqv5"
-   },
-   {
     "id": "93bd67cace",
     "dur": 14.55,
     "wave": "imhqtvjh3neqpkgeiggjkjcnk7glfjj8esoligeimkjkcpolkennjresf9nqqmim"
+   },
+   {
+    "id": "a4897d9e16",
+    "dur": 18.65,
+    "wave": "ou1avm1tpf3gfk9mqnilfplj4qhimpgjn52mmmgfgjjenhe8pklmmgmkkk8foshj"
    }
   ]
  },
@@ -1316,14 +1516,14 @@
   "group_name": "Hausa",
   "clips": [
    {
-    "id": "a9b42f8344",
-    "dur": 16.95,
-    "wave": "qttruvppoutpqoonosrunkemj3rstoijookpjnojg0putttrllmoikijmkqjiof3"
-   },
-   {
     "id": "5f51609ff4",
     "dur": 19.74,
     "wave": "vsrtusosrtrqqtlritnprmllpmsovlorotpntpjrlkositosnojlrhsnpplgqklm"
+   },
+   {
+    "id": "eb0ba2cf08",
+    "dur": 20.56,
+    "wave": "jjnkfqhqgnnpkqqrqlhtuskfo90nqvunnktllpnvkm6oojporjmioikoknkqiln9"
    },
    {
     "id": "bb009b61c5",
@@ -1331,14 +1531,19 @@
     "wave": "4vma11kjia12hpjclehf811nhdcfd1128mkjeeggafca112iiggfcccf6lgfccc4"
    },
    {
+    "id": "31de897c61",
+    "dur": 19.8,
+    "wave": "ovmf5kmlg1mikhjilf97nfjgfef81jsnjkhijkfhfe1nkkigfhgihdclsjigiedc"
+   },
+   {
     "id": "ce146660ee",
     "dur": 15.79,
     "wave": "ltjkrjs2mntnusvol6pnppkinbhournkppqfbc3otgjtrnpnmjmpptpcjmlkofi9"
    },
    {
-    "id": "eb0ba2cf08",
-    "dur": 20.56,
-    "wave": "jjnkfqhqgnnpkqqrqlhtuskfo90nqvunnktllpnvkm6oojporjmioikoknkqiln9"
+    "id": "a9b42f8344",
+    "dur": 16.95,
+    "wave": "qttruvppoutpqoonosrunkemj3rstoijookpjnojg0putttrllmoikijmkqjiof3"
    }
   ]
  },
@@ -1352,24 +1557,9 @@
   "group_name": "Hausa",
   "clips": [
    {
-    "id": "3b3f296d2b",
-    "dur": 16.96,
-    "wave": "grpoavmq7lrrmmlqjcjlrkhelb5qtvqhlqjlloki50onrotuplksmnplnqiqkql7"
-   },
-   {
-    "id": "6264a0ba0d",
-    "dur": 18.7,
-    "wave": "nqsgsoomrrospdrnurrdurqmmponfvoneomqqqruos8otirqpnkhqmglrnsoqa55"
-   },
-   {
-    "id": "b39aa5e993",
-    "dur": 19.36,
-    "wave": "iqnuiiqojorkorqeoj3knnlhomgovsroqpvpnkjddmqiollirgkrjn6nnmorksrb"
-   },
-   {
-    "id": "bb49f8cff9",
-    "dur": 15.36,
-    "wave": "sqjptggrpqimljkkkqlntnkiinpvknrmgtnjpnerghorqootlgkinjepknemlfki"
+    "id": "b65f9df6e5",
+    "dur": 16.99,
+    "wave": "tupg1vos61srkrmnqh8pnmqogn81muvqphrojokmn21tnppminhmmb9jonmlhggd"
    },
    {
     "id": "546fe86e89",
@@ -1377,9 +1567,29 @@
     "wave": "nvkf3lvuj00nrmqlslb4omikilc01ovmkiiogkijf54fnlgoplgglnhh5unmogh7"
    },
    {
+    "id": "bb49f8cff9",
+    "dur": 15.36,
+    "wave": "sqjptggrpqimljkkkqlntnkiinpvknrmgtnjpnerghorqootlgkinjepknemlfki"
+   },
+   {
+    "id": "6264a0ba0d",
+    "dur": 18.7,
+    "wave": "nqsgsoomrrospdrnurrdurqmmponfvoneomqqqruos8otirqpnkhqmglrnsoqa55"
+   },
+   {
     "id": "639b6e272b",
     "dur": 15.87,
     "wave": "jrnmpjp4muoomoojbmmpmphihcrtvpqjtmpmii2ol4nuqptkoloonmh8mmomodhf"
+   },
+   {
+    "id": "b39aa5e993",
+    "dur": 19.36,
+    "wave": "iqnuiiqojorkorqeoj3knnlhomgovsroqpvpnkjddmqiollirgkrjn6nnmorksrb"
+   },
+   {
+    "id": "3b3f296d2b",
+    "dur": 16.96,
+    "wave": "grpoavmq7lrrmmlqjcjlrkhelb5qtvqhlqjlloki50onrotuplksmnplnqiqkql7"
    }
   ]
  },
@@ -1393,6 +1603,16 @@
   "group_name": "Hausa",
   "clips": [
    {
+    "id": "0710378eb0",
+    "dur": 25.82,
+    "wave": "755sq95gvtpg55srvsi65mi9tuvt86mvrjlre55qlaeob5srnliod5cmqnnfa5sp"
+   },
+   {
+    "id": "cce1fbfc99",
+    "dur": 15.07,
+    "wave": "pvk37knnf71eshimojgddaelhihd717lnkjhijgigb41ktkmhcgjkiefjmpmjgec"
+   },
+   {
     "id": "062cc9204d",
     "dur": 16.41,
     "wave": "nkskrnidh8snfmhffphgk0fhfqcqqpmrrdiginrhh0fppvtvkqqflpoiorojjomc"
@@ -1401,11 +1621,6 @@
     "id": "1f66f53859",
     "dur": 14.68,
     "wave": "hvsd2vppie30tmmrjjjk34tjspqc21prsnjffpljh13rorqknnlkrdlrd80qopi8"
-   },
-   {
-    "id": "0710378eb0",
-    "dur": 25.82,
-    "wave": "755sq95gvtpg55srvsi65mi9tuvt86mvrjlre55qlaeob5srnliod5cmqnnfa5sp"
    }
   ]
  },
@@ -1424,14 +1639,19 @@
     "wave": "fmc00gumfj9ltrvrkmeg3mnhnfkamtvqosjkojrfh2pvurrmlijk1bktd0oomlgb"
    },
    {
+    "id": "44b5c49e0c",
+    "dur": 15.5,
+    "wave": "fqteopqpta32221qqkqplhvilmqir57nvknhonnmng3tnqjhmlijuh2elvuomli7"
+   },
+   {
     "id": "9229806423",
     "dur": 15.06,
     "wave": "34lomvnigjj3pqhljljqfgnghhpfpnnlnlidgkgkkc8ssqpqukqiincipiffhim9"
    },
    {
-    "id": "44b5c49e0c",
-    "dur": 15.5,
-    "wave": "fqteopqpta32221qqkqplhvilmqir57nvknhonnmng3tnqjhmlijuh2elvuomli7"
+    "id": "b264008ec9",
+    "dur": 13.87,
+    "wave": "pvk38tnmc61oolgukjhda5mqmnhc51olmpoiogjmea11ppukfnhkkulflroghegc"
    }
   ]
  },
@@ -1445,19 +1665,14 @@
   "group_name": "Igbo",
   "clips": [
    {
-    "id": "d32b79faae",
-    "dur": 12.38,
-    "wave": "llvriqopnnlglmnpikmirnrijgihdrmfmgifjijfkknkesjkjjejkjgfilfogeea"
+    "id": "ae6ca9c256",
+    "dur": 13.29,
+    "wave": "hoqsn6vmurrrqktqkrpqoloooo82puntoqgmirinjokunoesifqkmopipqpnkmq6"
    },
    {
-    "id": "93559700c0",
-    "dur": 14.6,
-    "wave": "qovf63qnrpg9mnlmohga4simjgklfc37nplmjihnhii6qolhfhdmijmh95koskkc"
-   },
-   {
-    "id": "99b374de5e",
-    "dur": 14.99,
-    "wave": "onvlktpqkllpslkchqkmikeihjc5ktsmoflapfjfa1nohojqbdqfoqkf0srpg7jk"
+    "id": "0ee9dcecb4",
+    "dur": 16.77,
+    "wave": "lpum3vgosldhhkipfmfrlkjjjjc93nkijhkmiehde6onioojjdcjgjkcdummkfp9"
    },
    {
     "id": "144cdb4e7e",
@@ -1465,9 +1680,24 @@
     "wave": "ilsk9srrqnopurnl5tsssoqsrifvqrrnjmomljt4svpjkttmnppk1vvpesvoonl2"
    },
    {
-    "id": "ae6ca9c256",
-    "dur": 13.29,
-    "wave": "hoqsn6vmurrrqktqkrpqoloooo82puntoqgmirinjokunoesifqkmopipqpnkmq6"
+    "id": "d32b79faae",
+    "dur": 12.38,
+    "wave": "llvriqopnnlglmnpikmirnrijgihdrmfmgifjijfkknkesjkjjejkjgfilfogeea"
+   },
+   {
+    "id": "99b374de5e",
+    "dur": 14.99,
+    "wave": "onvlktpqkllpslkchqkmikeihjc5ktsmoflapfjfa1nohojqbdqfoqkf0srpg7jk"
+   },
+   {
+    "id": "9207d6ec01",
+    "dur": 16.16,
+    "wave": "jnre1kgvokhikfeceb7oiiged931gvojhigkhbdc91jphqonhecncehb4jrrl8lf"
+   },
+   {
+    "id": "93559700c0",
+    "dur": 14.6,
+    "wave": "qovf63qnrpg9mnlmohga4simjgklfc37nplmjihnhii6qolhfhdmijmh95koskkc"
    }
   ]
  },
@@ -1481,11 +1711,6 @@
   "group_name": "Igbo",
   "clips": [
    {
-    "id": "71bbcd8d83",
-    "dur": 21.77,
-    "wave": "oulrpph08nppnomlo7nustpnokue1pvrkmnnlpfnoklsokni2mtja8pto9ulsiip"
-   },
-   {
     "id": "aae5ead9c2",
     "dur": 13.28,
     "wave": "8bvqcjtspkn7jeieppomggejea1jtmvqmedeqekfg0llodrhbenegid74rqpejd4"
@@ -1496,14 +1721,19 @@
     "wave": "nlvr41mmpnjggeigc4illlejed232orjd7jjghfgc22infkbgihendjea23oqlg9"
    },
    {
+    "id": "df769c0988",
+    "dur": 10.27,
+    "wave": "iltnqunvpodiqiespkmiflommlcjnifqhffhgeajnpm8nnhkeh8nmlgdmoqnafj9"
+   },
+   {
     "id": "cb03c4a56e",
     "dur": 16.47,
     "wave": "flncgmmqtggqrojmd0qmspqmcpg0qrqjjfmfjl29mkulelonieqkf1tsqhpvpgsb"
    },
    {
-    "id": "df769c0988",
-    "dur": 10.27,
-    "wave": "iltnqunvpodiqiespkmiflommlcjnifqhffhgeajnpm8nnhkeh8nmlgdmoqnafj9"
+    "id": "71bbcd8d83",
+    "dur": 21.77,
+    "wave": "oulrpph08nppnomlo7nustpnokue1pvrkmnnlpfnoklsokni2mtja8pto9ulsiip"
    }
   ]
  },
@@ -1517,14 +1747,9 @@
   "group_name": "Igbo",
   "clips": [
    {
-    "id": "24edd76404",
-    "dur": 16.35,
-    "wave": "lvvpqpqkdqqjilpllgdroojmfdrnmokkkgjjhdeedmpoknesokkfgfgafiidcjhc"
-   },
-   {
-    "id": "f45437f979",
-    "dur": 15.36,
-    "wave": "goldjknjgnkekjkfnhic7njljqkffmuqnonmjjifcpvsqlkohjhqpfmpprgmjki7"
+    "id": "c9d70635b1",
+    "dur": 19.52,
+    "wave": "roth2rqvmi23smhkqpikf4sopohb135qvkojmphpfje923mlsprmhikifpnnljf8"
    },
    {
     "id": "f7cd846a9a",
@@ -1532,14 +1757,24 @@
     "wave": "jonqk11112rrioonlooks26soopktnqcnrjopil6olovsqmqonmlqcroqdqmoo93"
    },
    {
+    "id": "f45437f979",
+    "dur": 15.36,
+    "wave": "goldjknjgnkekjkfnhic7njljqkffmuqnonmjjifcpvsqlkohjhqpfmpprgmjki7"
+   },
+   {
+    "id": "8f54647a08",
+    "dur": 16.2,
+    "wave": "mtuihuqhi44ngjllnldg4rkkenle4gvoojrijceg42osasoqkjgeelejprhkile7"
+   },
+   {
     "id": "b7505b9b9a",
     "dur": 18.4,
     "wave": "kqsmpvpkpulsvqbvuoavtsopqn4uurrssqiopngpqsuiurpoeqqpngpqsmmrrqh0"
    },
    {
-    "id": "c9d70635b1",
-    "dur": 19.52,
-    "wave": "roth2rqvmi23smhkqpikf4sopohb135qvkojmphpfje923mlsprmhikifpnnljf8"
+    "id": "24edd76404",
+    "dur": 16.35,
+    "wave": "lvvpqpqkdqqjilpllgdroojmfdrnmokkkgjjhdeedmpoknesokkfgfgafiidcjhc"
    }
   ]
  },
@@ -1553,6 +1788,11 @@
   "group_name": "Igbo",
   "clips": [
    {
+    "id": "3fb276a201",
+    "dur": 13.12,
+    "wave": "hoqfpnmlbsqhmidknmkdsqoqmicnnkfhqppmfhhkanovrllnpiihiicknliekjd6"
+   },
+   {
     "id": "a419cea729",
     "dur": 19.47,
     "wave": "gnk6ptpf2lvpp0ossjmcsqnlg1tugjssctslalilm51ro0qp3qrokionflrrpokd"
@@ -1563,19 +1803,19 @@
     "wave": "lsm1qomlpohm7lopfgm0qkphpkojlvqgksjkjeii9skvsonpfh0mppljoqlmkki9"
    },
    {
+    "id": "9af538362c",
+    "dur": 14.96,
+    "wave": "hpv41jnvkd238pneprnjha1jknkikia33nsrpqjlllf232nlsqmmkjhe8jnhiif7"
+   },
+   {
     "id": "79ac2ea1b9",
     "dur": 13.59,
     "wave": "jivplfjjpmp7mlnffen2lnphnnmjnjrkkfogfgj60imtolkqfhjijbrmkcljoi93"
    },
    {
-    "id": "3fb276a201",
-    "dur": 13.12,
-    "wave": "hoqfpnmlbsqhmidknmkdsqoqmicnnkfhqppmfhhkanovrllnpiihiicknliekjd6"
-   },
-   {
-    "id": "9af538362c",
-    "dur": 14.96,
-    "wave": "hpv41jnvkd238pneprnjha1jknkikia33nsrpqjlllf232nlsqmmkjhe8jnhiif7"
+    "id": "2a3d0fd599",
+    "dur": 16.24,
+    "wave": "hpp81nphf11jnelnhheg3lhkjkjb11llqoooile89115kfvromoigggbqhngfea3"
    }
   ]
  },
@@ -1589,6 +1829,16 @@
   "group_name": "Igbo",
   "clips": [
    {
+    "id": "9e5a1189c1",
+    "dur": 15.65,
+    "wave": "lvrhbqkngk92mgdipkmhegbhsipjl9akjkmdffigde81snlkhjijfmnfgnhflka5"
+   },
+   {
+    "id": "b7405f65a6",
+    "dur": 16.62,
+    "wave": "nroudmcr9mngpjldemfc0dtjpli8uqqhtdbhinfnjcvouplpjq6scmfbipkhfmk7"
+   },
+   {
     "id": "49ebce3f73",
     "dur": 13.24,
     "wave": "7lmf5cvllhlnodpoibjfenhine4bropmkcbjgh8i5antookkkf7lhhmihgjjfcea"
@@ -1597,11 +1847,6 @@
     "id": "9c79841f75",
     "dur": 13.4,
     "wave": "lvvstuns4tuqmtsqpkskcsrqsn7rvsqsksmqqmmo2fursrjnphrpulpqurtunh58"
-   },
-   {
-    "id": "b7405f65a6",
-    "dur": 16.62,
-    "wave": "nroudmcr9mngpjldemfc0dtjpli8uqqhtdbhinfnjcvouplpjq6scmfbipkhfmk7"
    }
   ]
  },
@@ -1615,11 +1860,6 @@
   "group_name": "Igbo",
   "clips": [
    {
-    "id": "a94838b9af",
-    "dur": 16.13,
-    "wave": "hke3ljfcd4115gphdhgc23eeimbgloip9fcecic203gmvuhjr9dgj11algddfib4"
-   },
-   {
     "id": "ea86593167",
     "dur": 19.46,
     "wave": "8205vq91ssln91jurpvkjjgd6rmnp5rupsehjogml00oosslkjllbcuidpqljmia"
@@ -1628,6 +1868,16 @@
     "id": "c1972f013a",
     "dur": 23.07,
     "wave": "rk907vmiidvp8arjgid08snolhnooe0nosgjnhkmevpv0ohnno700knqlprjbnia"
+   },
+   {
+    "id": "dc185f3749",
+    "dur": 15.73,
+    "wave": "qvl9opqgc111ltlhujefcblrinm911qnnsgdhkhjb1111nlvslonhhnjchpohlc4"
+   },
+   {
+    "id": "a94838b9af",
+    "dur": 16.13,
+    "wave": "hke3ljfcd4115gphdhgc23eeimbgloip9fcecic203gmvuhjr9dgj11algddfib4"
    }
   ]
  },
@@ -1705,6 +1955,11 @@
   "group_name": "Kikuyu",
   "clips": [
    {
+    "id": "13f4b31154",
+    "dur": 30.34,
+    "wave": "qm3v3kl4vjh23rrjkhgnimie24trkjmg4qjlh732mngied98nqiojhlf72holkgc"
+   },
+   {
     "id": "45a92456b5",
     "dur": 24.61,
     "wave": "srurpusppsomisromptnkngpkmvrpnnkloomjpmqngnkioolkmimnjmkkpplllmh"
@@ -1724,6 +1979,11 @@
     "id": "362ccf0f2c",
     "dur": 24.13,
     "wave": "sqssluurospqqc445667888aaamttuc99adbcnssvqrvsnqqpqqsprsormorrqss"
+   },
+   {
+    "id": "9b3a9a1ed1",
+    "dur": 26.41,
+    "wave": "tl22v9oeovm81lpfgggeklf81prjmjia1qujb41omfehc1emolijijiid72pkhca"
    }
   ]
  },
@@ -1737,14 +1997,19 @@
   "group_name": "Kikuyu",
   "clips": [
    {
+    "id": "6b7651b91a",
+    "dur": 9.3,
+    "wave": "1qqttrqmtlcrgqpfkqjsgopqurlm7jqsa1rnqrpovmqsrjrnammlqeiqhikckb60"
+   },
+   {
     "id": "accd1abd2a",
     "dur": 19.2,
     "wave": "uvmvunnnirvuooqqnkooooqngrllphomhmqqmlimkpvmpnqnjlrrphqqpoojkkkd"
    },
    {
-    "id": "6b7651b91a",
-    "dur": 9.3,
-    "wave": "1qqttrqmtlcrgqpfkqjsgopqurlm7jqsa1rnqrpovmqsrjrnammlqeiqhikckb60"
+    "id": "b64af59cc7",
+    "dur": 19.44,
+    "wave": "oo71rqjf1148pvljkhd90spnjb144jnporknlkjjd414eunfinikijlmqgmjhdf5"
    }
   ]
  },
@@ -1757,6 +2022,11 @@
   "text": "Wĩmwega. Wĩ mwega atĩa ũmũthĩ? Thoko nĩyũrĩte andũ mũno hĩndĩ ya mũthenya, nĩ ũndũ ũcio nĩtũgĩenda mbere. Basi ĩrĩa ĩgũthiĩ itũũra-inĩ ĩgũtũma rĩ saa ng'ama nĩ Saturday? Ndũgĩtũma Wanjiku rũciinĩ rũa rũgoro nĩ saa nane na nuthu nĩguo ũkĩrĩre mũthenya wa mũhũrũko wa Nairobi.",
   "group_name": "Kikuyu",
   "clips": [
+   {
+    "id": "82211290c6",
+    "dur": 17.9,
+    "wave": "ttd11vlj81hpoimgdb1cqjghe9222oksmkjlgdfcd111moiflhghif99mlkkehc5"
+   },
    {
     "id": "f82a0c6fb8",
     "dur": 19.65,
@@ -1773,6 +2043,11 @@
   "text": "Mwaramutse. Good morning, how are you today? Amerewe ute uyu munsi? Please call Aline by 8:30 AM tomorrow to confirm the meeting in Kigali. Isoko riraba ryuzuye cyane kuri uyu mugoroba, bityo tugomba kugenda kare. The bus will leave at 6:45 on Saturday. Bisi ijya mu mujyi ihaguruka saa ngahe ku wa Gatandatu? About 25 people from the office will travel.",
   "group_name": "Kinyarwanda",
   "clips": [
+   {
+    "id": "76430e81b8",
+    "dur": 28.49,
+    "wave": "vl1vrgpe2romj11pmjiihfljdd11mnohkj8lhea1jnlkgga1tqoiknig1gmmjifd"
+   },
    {
     "id": "00ecc6be52",
     "dur": 30.51,
@@ -1795,14 +2070,19 @@
   "group_name": "Kinyarwanda",
   "clips": [
    {
+    "id": "38cdc2c230",
+    "dur": 15.78,
+    "wave": "avjmqoeutsuepmrl5004a5o9tfejkf310dhvrddkdjlnokger6hscgkggkefir13"
+   },
+   {
     "id": "96c7f78800",
     "dur": 11.12,
     "wave": "2g11lnnsvplkinlonpmr91umunpvpmmpoomqplqrkopd11dphqmkmtluqmorjsc1"
    },
    {
-    "id": "38cdc2c230",
-    "dur": 15.78,
-    "wave": "avjmqoeutsuepmrl5004a5o9tfejkf310dhvrddkdjlnokger6hscgkggkefir13"
+    "id": "fd392a1ab4",
+    "dur": 27.9,
+    "wave": "vvcprqqb7plmb1mtqmplghofd1ipplion3n7nmf1pknimib3lprglqki34vpjkfm"
    }
   ]
  },
@@ -1816,14 +2096,19 @@
   "group_name": "Kinyarwanda",
   "clips": [
    {
-    "id": "6ab4dfa5f7",
-    "dur": 7.2,
-    "wave": "2lsi222222222k622228222222223uuuvvvvvvvvvvvvvvvvvvvvvvvvvvvvutm2"
-   },
-   {
     "id": "578531c88c",
     "dur": 20.58,
     "wave": "pppkpm81hpmpilnohhmlgjo3ruqvspnmnnp714qtl93mksr1jmoppsprmppuppgh"
+   },
+   {
+    "id": "66eb626ce1",
+    "dur": 20.71,
+    "wave": "tse22euovk12hqrnjnmpl5nmorh458vsvsnoppmog12mrj8rnsrotlop8prpplhd"
+   },
+   {
+    "id": "6ab4dfa5f7",
+    "dur": 7.2,
+    "wave": "2lsi222222222k622228222222223uuuvvvvvvvvvvvvvvvvvvvvvvvvvvvvutm2"
    }
   ]
  },
@@ -1837,14 +2122,19 @@
   "group_name": "Kinyarwanda",
   "clips": [
    {
-    "id": "60b0770d69",
-    "dur": 20.15,
-    "wave": "sukjvoqeamtjjcjhn1gjghl0pfpnphsmqkb0aofcimm6lnfgimic0oponm8h5004"
+    "id": "0061c97aa7",
+    "dur": 21.29,
+    "wave": "urb11orpf311epvnkiproamlih500iosnkjmokd1115tnspnbsnqmnij5qtpoldc"
    },
    {
     "id": "d8565fa7ef",
     "dur": 4.99,
     "wave": "01d00000r0000000000000ijfc00000000hnm700gptuuvo0000000000000gf00"
+   },
+   {
+    "id": "60b0770d69",
+    "dur": 20.15,
+    "wave": "sukjvoqeamtjjcjhn1gjghl0pfpnphsmqkb0aofcimm6lnfgimic0oponm8h5004"
    }
   ]
  },
@@ -1858,14 +2148,14 @@
   "group_name": "Krio",
   "clips": [
    {
-    "id": "8f5eb9269e",
-    "dur": 19.62,
-    "wave": "ptgspsssqmvoqkpuupomvlqksklhsqjuqtlrsrrqonsmmjjtrqmesghjsninmlkg"
-   },
-   {
     "id": "ac63b435b1",
     "dur": 25.67,
     "wave": "prlrivlgtvoftrvtnsequqslhnlsnmssnp8stm9ukog7ltplpopuitoiqqqpojqc"
+   },
+   {
+    "id": "8f5eb9269e",
+    "dur": 19.62,
+    "wave": "ptgspsssqmvoqkpuupomvlqksklhsqjuqtlrsrrqonsmmjjtrqmesghjsninmlkg"
    }
   ]
  },
@@ -1879,14 +2169,14 @@
   "group_name": "Krio",
   "clips": [
    {
-    "id": "95da73e0d3",
-    "dur": 20.83,
-    "wave": "mvimnittilulikisuvnijkqgmghdcojfspnegklokenllfbiknmebldbboedbg7c"
-   },
-   {
     "id": "906071cec7",
     "dur": 22.64,
     "wave": "oornktn1qurc1prsqnqrjlrrpmlssvplmntrk1qsnimqojoqurrtsmimtrsurmo7"
+   },
+   {
+    "id": "95da73e0d3",
+    "dur": 20.83,
+    "wave": "mvimnittilulikisuvnijkqgmghdcojfspnegklokenllfbiknmebldbboedbg7c"
    }
   ]
  },
@@ -1900,14 +2190,14 @@
   "group_name": "Krio",
   "clips": [
    {
-    "id": "5003fae971",
-    "dur": 14.24,
-    "wave": "orsivskpqisqfhshuqmnmdsqtppftmqkkkmfqnigkcvmuosojpkfftqlimhrgfgf"
-   },
-   {
     "id": "f16a1d63bb",
     "dur": 16.42,
     "wave": "8pqkissmmgpllnbtqtklo4rrtpihtrmtplk5tsopm0qovvdmqrhtbspuaokjnjqa"
+   },
+   {
+    "id": "5003fae971",
+    "dur": 14.24,
+    "wave": "orsivskpqisqfhshuqmnmdsqtppftmqkkkmfqnigkcvmuosojpkfftqlimhrgfgf"
    }
   ]
  },
@@ -1945,6 +2235,16 @@
     "id": "f4b9b3c3c3",
     "dur": 33.4,
     "wave": "npj3iprlerrbnrnono3unmj4qrtjolkfvoomhsoi33inif33tnlmlnnkd4smkoib"
+   },
+   {
+    "id": "9f140fa0e7",
+    "dur": 31.23,
+    "wave": "uug1orlb11vok14snojlkmlg91dvuunlobdvomg11itkmib1rvopooroh11pljhd"
+   },
+   {
+    "id": "0d7ba6f9fd",
+    "dur": 34.91,
+    "wave": "vi2ktqeivq1pnnrnomhllofa1vunrihetpke1nppronqfd56soinrlj1knkskjdd"
    }
   ]
  },
@@ -1961,6 +2261,16 @@
     "id": "e94534e62b",
     "dur": 38.12,
     "wave": "oorprok7tvqrbvnnoooploovrrppoikurkn9sqjmkbrrdurtculvuoj8tpjlifnf"
+   },
+   {
+    "id": "c87c2c5a97",
+    "dur": 32.44,
+    "wave": "sqf6rhqasrcoomqqlrmnkmlm8sppouleoumi7npmmniqmoffvnlnokp1mimpmkje"
+   },
+   {
+    "id": "1fda28cfaa",
+    "dur": 25.33,
+    "wave": "voigu6mp92utn1mpnlnienfe2hupnpljh6mpjha1kmgoh92mumlonnslm2knmlec"
    }
   ]
  },
@@ -1973,6 +2283,16 @@
   "text": "Mbote na ntongo. Ozali malamu lelo? Zando etondi na bato mingi na ntango ya nsima ya midi, yango wana tosengeli kokende noki. Bisi oyo ekendaka na engumba ekobima ngonga nini mokolo ya Samedi? Nabondeli yo benga Chantal lobi na ngonga ya mwambe na ndambo mpo na kondimisa likita na Kinshasa.",
   "group_name": "Lingala",
   "clips": [
+   {
+    "id": "d1a82eb63a",
+    "dur": 21.71,
+    "wave": "lmg3tush11tsvfrtkgjh5rvkqjda11pqrlgghpunjn11ovvojrpnhsijknnijhf9"
+   },
+   {
+    "id": "7259ffda95",
+    "dur": 22.15,
+    "wave": "rrlf11kvtp11fthtjprjjgc7trolp71bstlmpkotoli21krj7omnommlj6qlhfea"
+   },
    {
     "id": "55780c514a",
     "dur": 29.68,
@@ -1993,6 +2313,16 @@
     "id": "2a64d76567",
     "dur": 29.48,
     "wave": "llkeppf9opolmkgjlk6qcmkhh59ovnjljdpqoikd66hponfpljkkl7qkhhjk8gea"
+   },
+   {
+    "id": "22eee6700b",
+    "dur": 20.68,
+    "wave": "ossc33svr26vouqoqlila4itmoob22musoplqsqpjj92nuoirmslrmrkkjlmfcf2"
+   },
+   {
+    "id": "828db170ac",
+    "dur": 20.61,
+    "wave": "qpoamttm11omqknrloqihfolvnkc21lupmlkknrmpl111psmlloljnjm8nnpglmb"
    }
   ]
  },
@@ -2006,14 +2336,19 @@
   "group_name": "Luganda",
   "clips": [
    {
+    "id": "13c7104900",
+    "dur": 26.18,
+    "wave": "hpkerlpsr6osoopllqklq7jrmtpoulpppokibjttgpmplrstqquvstrtitsmrlrc"
+   },
+   {
     "id": "84b93e8cd0",
     "dur": 20.46,
     "wave": "pivqcnnlqgjffssrl6kqrnopmbmerdbrqfdlnjdprnqrstmgobsglnqlm6vhph5f"
    },
    {
-    "id": "13c7104900",
-    "dur": 26.18,
-    "wave": "hpkerlpsr6osoopllqklq7jrmtpoulpppokibjttgpmplrstqquvstrtitsmrlrc"
+    "id": "5ac8c22d74",
+    "dur": 24.18,
+    "wave": "vpnf1lvilf0qke1jmhhghgijfc0ekikefc6knid89jifgeb0glfglkhd50ljgiea"
    }
   ]
  },
@@ -2027,14 +2362,19 @@
   "group_name": "Luganda",
   "clips": [
    {
-    "id": "9c29b760ef",
-    "dur": 26.1,
-    "wave": "765555555bukvp65554443344jvc4tum444r7fplbkfe32olfokqfgk32mdldfcg"
+    "id": "e81fde15a1",
+    "dur": 29.81,
+    "wave": "umf4vnsr3qvl13oullmmhltib15iontnog2kqsi11qropme2duqmunin55pqqlii"
    },
    {
     "id": "8b65e2ce8d",
     "dur": 27.84,
     "wave": "qrnfpuqj9rvjqspjksjmnkhlgvoqonibjl6trrrbvsgl4nsmk6spoonrqj4mpb46"
+   },
+   {
+    "id": "9c29b760ef",
+    "dur": 26.1,
+    "wave": "765555555bukvp65554443344jvc4tum444r7fplbkfe32olfokqfgk32mdldfcg"
    }
   ]
  },
@@ -2048,14 +2388,19 @@
   "group_name": "Luganda",
   "clips": [
    {
-    "id": "26a476d282",
-    "dur": 18.77,
-    "wave": "dqmesnqjjlfnijjig8pmknjkg9mkhhlhjnlkjke1oqsplmikjvilemmnqiqpoore"
+    "id": "acfdd93959",
+    "dur": 16.19,
+    "wave": "rpkjcmvjjacmnlohihe3fnmjbd611mkmijjjlfid51okljiggehgh8ecfkhhhec5"
    },
    {
     "id": "b9503741fc",
     "dur": 28.66,
     "wave": "lrthmnjc11fpnpongg6qmlih12srimrqihn9111gpuvomlcbntodigenlkoosgll"
+   },
+   {
+    "id": "26a476d282",
+    "dur": 18.77,
+    "wave": "dqmesnqjjlfnijjig8pmknjkg9mkhhlhjnlkjke1oqsplmikjvilemmnqiqpoore"
    }
   ]
  },
@@ -2069,14 +2414,19 @@
   "group_name": "Luganda",
   "clips": [
    {
+    "id": "43a2494b54",
+    "dur": 18.84,
+    "wave": "dtqi2gsvs4eqmmtnojkolgmkkdjkgjmpnonjmk51crlniklfhgnigfghififgik6"
+   },
+   {
     "id": "2c02b864d3",
     "dur": 28.96,
     "wave": "9vprfkrk4psoqmnksppmesqpm6ktktroobafo9lrmipk5jpsjlmeop4qrapcish6"
    },
    {
-    "id": "43a2494b54",
-    "dur": 18.84,
-    "wave": "dtqi2gsvs4eqmmtnojkolgmkkdjkgjmpnonjmk51crlniklfhgnigfghififgik6"
+    "id": "84a1395760",
+    "dur": 21.07,
+    "wave": "mnnc2isq6153hmmslhkd65ntphg1163pqqkmsulnj9117pvspjgomookjgimrocb"
    }
   ]
  },
@@ -2260,14 +2610,14 @@
   "group_name": "Oromo",
   "clips": [
    {
-    "id": "a854b2669b",
-    "dur": 20.69,
-    "wave": "bnl000g400f30nig5icg007000lob0lsnlehnjf7fuvprohnlnlimagsoqmongle"
-   },
-   {
     "id": "6f4b0f7c99",
     "dur": 28.06,
     "wave": "cokllpmlok6kokmloigkqihgjsuvnnsikum523nkhfijf1qrppfhgmknhhnrmkhk"
+   },
+   {
+    "id": "a854b2669b",
+    "dur": 20.69,
+    "wave": "bnl000g400f30nig5icg007000lob0lsnlehnjf7fuvprohnlnlimagsoqmongle"
    }
   ]
  },
@@ -2281,14 +2631,14 @@
   "group_name": "Oromo",
   "clips": [
    {
-    "id": "6c78c92f1c",
-    "dur": 26.42,
-    "wave": "mq9urvontm1rvrsqsptrrs1jt1puvtqlnnuvl5pummomi1ovrtqpmpl75poqqomg"
-   },
-   {
     "id": "0b4c46bc33",
     "dur": 27.27,
     "wave": "id2irooodknd1r8rpljor7kosmol4rnqnvpkgqtjjllj6lkhjmmji7njkmjkkjmg"
+   },
+   {
+    "id": "6c78c92f1c",
+    "dur": 26.42,
+    "wave": "mq9urvontm1rvrsqsptrrs1jt1puvtqlnnuvl5pummomi1ovrtqpmpl75poqqomg"
    }
   ]
  },
@@ -2302,14 +2652,14 @@
   "group_name": "Oromo",
   "clips": [
    {
-    "id": "0101ec3657",
-    "dur": 18.76,
-    "wave": "hvp2pnmh3pprsrumopckpovqj5mororvnomsilb1rrmnnjljmhmjalqlneknkij8"
-   },
-   {
     "id": "f2ea6b346b",
     "dur": 24.43,
     "wave": "emejpmklsq5mvvqpjl4kml6vh1uvtumo9qvmi55jtnm2jlpeqmqilsollk1mi222"
+   },
+   {
+    "id": "0101ec3657",
+    "dur": 18.76,
+    "wave": "hvp2pnmh3pprsrumopckpovqj5mororvnomsilb1rrmnnjljmhmjalqlneknkij8"
    }
   ]
  },
@@ -2323,14 +2673,14 @@
   "group_name": "Oromo",
   "clips": [
    {
-    "id": "eb514b50de",
-    "dur": 18.78,
-    "wave": "csm2irsj31rsrsruvrqplssf11krutturoqtlm1huvskvprlutpkorrvqlqrumse"
-   },
-   {
     "id": "ff13f0623e",
     "dur": 19.33,
     "wave": "end5orobuoqqouullp4ppkpsgnrutvcppqjm11btmosa5uonomonorsrontbslmg"
+   },
+   {
+    "id": "eb514b50de",
+    "dur": 18.78,
+    "wave": "csm2irsj31rsrsruvrqplssf11krutturoqtlm1huvskvprlutpkorrvqlqrumse"
    }
   ]
  },
@@ -2343,6 +2693,11 @@
   "text": "Thobela. Good morning, how are you today? O phela bjang lehono? Please call Mpho by 8:30 AM tomorrow to confirm the meeting in Polokwane. Mmaraka o tletše kudu thapama ye, ka gona re swanetše go sepela ka pela. The bus will leave at 6:45 on Saturday. Bese ya go ya toropong e tloga ka nako mang ka Mokibelo? About 25 people from the office will travel.",
   "group_name": "Sepedi (Northern Sotho)",
   "clips": [
+   {
+    "id": "e0bc04b3bd",
+    "dur": 26.73,
+    "wave": "og1qmiqg1jrnd1plrkkjflsjja1vomnk8rqjle1bpqimhf1esoolnnhd1mlkmjib"
+   },
    {
     "id": "aa4ba16c51",
     "dur": 30.55,
@@ -2359,6 +2714,11 @@
   "text": "Thobela. Good morning, how are you today? O phela bjang lehono? Please call Mpho by 8:30 AM tomorrow to confirm the meeting in Polokwane. Mmaraka o tletše kudu thapama ye, ka gona re swanetše go sepela ka pela. The bus will leave at 6:45 on Saturday. Bese ya go ya toropong e tloga ka nako mang ka Mokibelo? About 25 people from the office will travel.",
   "group_name": "Sepedi (Northern Sotho)",
   "clips": [
+   {
+    "id": "3732a3ce28",
+    "dur": 27.25,
+    "wave": "eu6spri2rsj2bvqnppmkatmjb1nqnnjeltqoka1lqomii51qpsglspkd1fqljjhc"
+   },
    {
     "id": "2b139b9569",
     "dur": 38.55,
@@ -2379,6 +2739,11 @@
     "id": "9ae6e9db67",
     "dur": 28.0,
     "wave": "5li1noj3ppjjkkkojmhjic2qtolgmnligj2133hvq8jkj3olj9kj4hikdldjge23"
+   },
+   {
+    "id": "9d48f512b4",
+    "dur": 18.18,
+    "wave": "nqc1qspi11vpkkmhjf4nklpfhg811qmmjjjgmknmm611ljqrqkghkgmfhkjejnh6"
    }
   ]
  },
@@ -2391,6 +2756,11 @@
   "text": "Thobela. O phela bjang lehono? Mmaraka o tletše kudu thapama ye, ka gona re swanetše go sepela ka pela. Bese ya go ya toropong e tloga ka nako mang ka Mokibelo? Hle leletša Mpho gosasa ka seripa sa senyane go tiišetša kopano ya Polokwane.",
   "group_name": "Sepedi (Northern Sotho)",
   "clips": [
+   {
+    "id": "75e17506b8",
+    "dur": 16.91,
+    "wave": "2te21ovre11rrhjgldg51fnakljd8611pnijhgklfe337l4nmkmhlijjehgdffa3"
+   },
    {
     "id": "adb42d21eb",
     "dur": 22.97,
@@ -2411,6 +2781,11 @@
     "id": "e312f36e87",
     "dur": 16.8,
     "wave": "56qtlsqkkjl231oolllmkkijljgoc4sroiqhiihkjh756ovrrjmmhcnhilkhikja"
+   },
+   {
+    "id": "33087d4197",
+    "dur": 16.15,
+    "wave": "952rtibvpmhd3oqpnsogjhoshltnigpotgmkfjkjpi4qnsrpgklijhhnlgjiighf"
    }
   ]
  },
@@ -2427,6 +2802,11 @@
     "id": "d227d478e5",
     "dur": 19.46,
     "wave": "qtqvrqojl2lssqrspmnrltosorf2dvvrlpknopqmnd8rpuqopqpkpsaksvvrstoe"
+   },
+   {
+    "id": "83168b3dda",
+    "dur": 22.51,
+    "wave": "6pqd00fqndorfjoo5qsnointrps77ppnnhilnj9ig95vrpraolnop4pqkkpg54m7"
    }
   ]
  },
@@ -2443,6 +2823,11 @@
     "id": "2ebc95900e",
     "dur": 32.61,
     "wave": "3qokrpjkrndoqokoqnkmljj2stroopevrhij14olmkppki4nomkjpolj2uqlogk2"
+   },
+   {
+    "id": "6d79b8327e",
+    "dur": 36.68,
+    "wave": "vn8lglf3gmjd3llkglifhnif32tjleii5knhh62kmikhg931rnjjhkhf32knhiic"
    }
   ]
  },
@@ -2455,6 +2840,11 @@
   "text": "Lumela hoseng. Good morning, how are you today? U phetse joang kajeno? Please call Lerato by 8:30 AM tomorrow to confirm the meeting in Maseru. Mmaraka o tletse batho haholo thapameng ena, kahoo re lokela ho tloha kapele. The bus will leave at 6:45 on Saturday. Bese e eang toropong e tloha ka nako mang ka Moqebelo? About 25 people from the office will travel.",
   "group_name": "Sesotho",
   "clips": [
+   {
+    "id": "3c98572ca7",
+    "dur": 27.05,
+    "wave": "srdqppg22iqg11ophhilikjih22rmlmhf6gnihg1gnlhifa2ovnjlih51foljghd"
+   },
    {
     "id": "93d190e80c",
     "dur": 13.09,
@@ -2475,6 +2865,11 @@
     "id": "7d3cf6ba7a",
     "dur": 24.93,
     "wave": "4lrnfnqqma1srpmjljkd2qrmphmf9uvniknlkja5jvpnljcqmbtujksoj1pnnnmf"
+   },
+   {
+    "id": "c2cbb9b5b1",
+    "dur": 21.67,
+    "wave": "vvo13nqg311vplknhmmhla4mgukfe211stqolmqnj711hlmljikeoioih5tphll9"
    }
   ]
  },
@@ -2487,6 +2882,11 @@
   "text": "Lumela hoseng. U phetse joang kajeno? Mmaraka o tletse batho haholo thapameng ena, kahoo re lokela ho tloha kapele. Bese e eang toropong e tloha ka nako mang ka Moqebelo? Ka kopo letsetsa Lerato hosane ka halofo ea hora ea borobong ho netefatsa kopano e Maseru.",
   "group_name": "Sesotho",
   "clips": [
+   {
+    "id": "02d0f30507",
+    "dur": 20.94,
+    "wave": "jvof31iuj713lqnnmkejd7jlijfd713dssokikomhke11joolkihkkifejkhmjg6"
+   },
    {
     "id": "eed1dae366",
     "dur": 30.5,
@@ -2504,6 +2904,11 @@
   "group_name": "Shona",
   "clips": [
    {
+    "id": "54894b98e9",
+    "dur": 32.84,
+    "wave": "nuqirtoflqlnvrtsomouqs9rq4muupsrmuurogtql7hqolsrkntvjsn3vvqrnl33"
+   },
+   {
     "id": "aff487ebf7",
     "dur": 25.38,
     "wave": "vsppvosvsroqlrnrmqupompjnmooprmljkonqolqnmnqmnlrkuilpqoopojpllmo"
@@ -2512,11 +2917,6 @@
     "id": "53ab226197",
     "dur": 25.76,
     "wave": "otihkhnggolrusppnlinjmgjvvqk7omljqmnpf9pleilgbppniimnnlk1pplklkj"
-   },
-   {
-    "id": "54894b98e9",
-    "dur": 32.84,
-    "wave": "nuqirtoflqlnvrtsomouqs9rq4muupsrmuurogtql7hqolsrkntvjsn3vvqrnl33"
    }
   ]
  },
@@ -2530,11 +2930,6 @@
   "group_name": "Shona",
   "clips": [
    {
-    "id": "b3862c41f5",
-    "dur": 25.41,
-    "wave": "tsqqvovtptmslskqrn5usqmontksrpnioknqopqnoqqmonoqmonrkrpkormpmmoo"
-   },
-   {
     "id": "6eb855a329",
     "dur": 31.47,
     "wave": "okme0iskilmm1rjojljiebls0itvpgoo0topnq3sniqkl3pnocllosk3gooomeji"
@@ -2543,6 +2938,11 @@
     "id": "5acc9acd4c",
     "dur": 25.76,
     "wave": "sopfrqtrqocrtrpruqouqm1srroqno5qqrppsngsvkmqno1svpuutvum1pqqsqpk"
+   },
+   {
+    "id": "b3862c41f5",
+    "dur": 25.41,
+    "wave": "tsqqvovtptmslskqrn5usqmontksrpnioknqopqnoqqmonoqmonrkrpkormpmmoo"
    }
   ]
  },
@@ -2556,14 +2956,14 @@
   "group_name": "Shona",
   "clips": [
    {
-    "id": "2d024e27c0",
-    "dur": 22.48,
-    "wave": "lsomefrnjelmurvppnkjarnqqnk5vrpqoqqmkduvuoopprfoq4rkjplsnomtj234"
-   },
-   {
     "id": "8a80d574ca",
     "dur": 17.74,
     "wave": "mqnhklkpi2mlrqqkolholipomqj00kqsplponooj0qqruvqmpopnnmbckllnollc"
+   },
+   {
+    "id": "2d024e27c0",
+    "dur": 22.48,
+    "wave": "lsomefrnjelmurvppnkjarnqqnk5vrpqoqqmkduvuoopprfoq4rkjplsnomtj234"
    },
    {
     "id": "d99055c8d9",
@@ -2582,14 +2982,14 @@
   "group_name": "Shona",
   "clips": [
    {
-    "id": "29e5a61b53",
-    "dur": 17.82,
-    "wave": "chelfkjd7111ipkrdgb1dkgedlpinf1olkbmomhd1qssvpssosqproimrqlpctrb"
-   },
-   {
     "id": "c33f09cbfb",
     "dur": 19.71,
     "wave": "svrrpktslnsiqtlqjmrnnkrumsmsqrnptmlorsnsloskootqossksojqsnkrkppm"
+   },
+   {
+    "id": "29e5a61b53",
+    "dur": 17.82,
+    "wave": "chelfkjd7111ipkrdgb1dkgedlpinf1olkbmomhd1qssvpssosqproimrqlpctrb"
    },
    {
     "id": "b8c76a2135",
@@ -2608,6 +3008,16 @@
   "group_name": "Somali",
   "clips": [
    {
+    "id": "c766fefb7e",
+    "dur": 30.67,
+    "wave": "ngbmsppbqe96vipkipggmlqneahtpmme6pgnlc1pplfkgngc8lthtihcpnscmmeb"
+   },
+   {
+    "id": "ac573ecc40",
+    "dur": 25.45,
+    "wave": "spj1vlnsc9sob2pomlrlkssle51trqqlhdqqvrl81rsomle51nsplproe1rppnge"
+   },
+   {
     "id": "b817395a82",
     "dur": 30.36,
     "wave": "ppnsqo9rpqrsnnuqimsoqqeuorttrnstrvsi4juohorpnpsvpuvsco4osvttnqt7"
@@ -2624,9 +3034,19 @@
   "group_name": "Somali",
   "clips": [
    {
+    "id": "28c8746d4d",
+    "dur": 27.2,
+    "wave": "nn92v9tk2aug29rrrnngditib26tqolfe2mndrng24kttkig42ssmvld62htondb"
+   },
+   {
     "id": "4a7f7bc444",
     "dur": 35.08,
     "wave": "lobtospjtj3vuronqrnprnp9suqntrjrtusrc3bnspjhsrk1nuutson32tsqtmu4"
+   },
+   {
+    "id": "45f616e894",
+    "dur": 31.63,
+    "wave": "ondlqipeloehvnpnjqliporqhcdrrrsjaomlmmcgrqnkjlojf1rqtnlfeqrolphd"
    }
   ]
  },
@@ -2643,6 +3063,16 @@
     "id": "59b3ca75e0",
     "dur": 29.33,
     "wave": "lnilsp2pumlqst1qjljlsnk8quooqqla26ehivrqo2moqq1smnsono1uq1qr7vte"
+   },
+   {
+    "id": "1e2d727fc6",
+    "dur": 17.61,
+    "wave": "qpff15uecb1psmsiuqdga1rmdcqipd81nktrqtlkhfj1nmc1vtljenpmlf9brcb6"
+   },
+   {
+    "id": "845c72a1ad",
+    "dur": 20.75,
+    "wave": "nsog1pruh11qpjpsnolhd4oinpqlc22lpsml3mvqjhi13sskvj2iqp55rllhjsjb"
    }
   ]
  },
@@ -2659,6 +3089,16 @@
     "id": "16f434c9f2",
     "dur": 23.35,
     "wave": "7nngermlc17qhvqmmoljmmgollg611jmqmomimkc111iooloapjninmhlkloelf8"
+   },
+   {
+    "id": "a84b5f12fd",
+    "dur": 19.58,
+    "wave": "2vvo34itnc245mhpmorhiajohlhqj243urpg9ipohg9344ptjpmakqicnljnnfk8"
+   },
+   {
+    "id": "fc3ee07351",
+    "dur": 18.64,
+    "wave": "qvqe1itmd11evnrtquokb1jrnppske511prtovsmnlb11or91pvotpqkjoklngg7"
    }
   ]
  },
@@ -2672,14 +3112,19 @@
   "group_name": "Swahili",
   "clips": [
    {
+    "id": "af3748bf40",
+    "dur": 21.27,
+    "wave": "5ssgopkinklj0nunomoqgrpnqpp0rqnonl3vqpopplsonmjlptnokqqokl0qrjhi"
+   },
+   {
     "id": "747f3ca371",
     "dur": 23.57,
     "wave": "lvsef700000000keorkfhg2hedjbecfjkgo3ekj9em7jgf8fijhegjhgec4egkfd"
    },
    {
-    "id": "3ce7a71332",
-    "dur": 29.91,
-    "wave": "svqj100000000hipjfg700ggidfcii30ph000009mkfkdgf6000ilhhhkfdccijc"
+    "id": "b1825248f8",
+    "dur": 15.72,
+    "wave": "jvpkjgnettrtjqnlmljhnigjhheblvjmqnigjhlhjjijikafj9lhjhgkafprpknc"
    },
    {
     "id": "2557e1d23b",
@@ -2687,9 +3132,9 @@
     "wave": "ovojljkqmhnklgngigkhggedlnkljmelkckigdikjgahglcmcdecfbabkolmncde"
    },
    {
-    "id": "af3748bf40",
-    "dur": 21.27,
-    "wave": "5ssgopkinklj0nunomoqgrpnqpp0rqnonl3vqpopplsonmjlptnokqqokl0qrjhi"
+    "id": "7686ea7896",
+    "dur": 16.99,
+    "wave": "brnns33vvmlsniokhllihqfflmjhjd54qonlgcijghb8mrsgojofiedh8btupeci"
    },
    {
     "id": "7c185e8e78",
@@ -2697,9 +3142,9 @@
     "wave": "rvtloe22nomvrqhpojemekkgjlqg52pqonqdlshmlkd2lmtukgpjqfihjaghsnfe"
    },
    {
-    "id": "b1825248f8",
-    "dur": 15.72,
-    "wave": "jvpkjgnettrtjqnlmljhnigjhheblvjmqnigjhlhjjijikafj9lhjhgkafprpknc"
+    "id": "3ce7a71332",
+    "dur": 29.91,
+    "wave": "svqj100000000hipjfg700ggidfcii30ph000009mkfkdgf6000ilhhhkfdccijc"
    }
   ]
  },
@@ -2713,16 +3158,6 @@
   "group_name": "Swahili",
   "clips": [
    {
-    "id": "cf44969dd3",
-    "dur": 15.94,
-    "wave": "ntnorhsnlpofmpoortqpootqsnrvposolvqvmjlllkjnqehciikhnknomprsphn4"
-   },
-   {
-    "id": "101fdd2fed",
-    "dur": 12.93,
-    "wave": "qvpquhvppumrsirompmponftrtptlftlqrqpiquuflnsunmllonpmrmotufqtfof"
-   },
-   {
     "id": "e979385754",
     "dur": 16.18,
     "wave": "askoff1meid2rplomme0rphsholkinopn97vplpsoirh7nqlp9nlrmgnloipng94"
@@ -2731,6 +3166,21 @@
     "id": "6b63a21200",
     "dur": 15.64,
     "wave": "bvvmkfnekvromnnpimlkckiefjlf3bvflilgemflchl5doorjgjgljhfigltngo9"
+   },
+   {
+    "id": "894be258dc",
+    "dur": 15.04,
+    "wave": "fvlo3euhuljhihdfdkdbgedef9633mhkigjeckdfffe32gknihlkdhdcd8cpmee2"
+   },
+   {
+    "id": "101fdd2fed",
+    "dur": 12.93,
+    "wave": "qvpquhvppumrsirompmponftrtptlftlqrqpiquuflnsunmllonpmrmotufqtfof"
+   },
+   {
+    "id": "cf44969dd3",
+    "dur": 15.94,
+    "wave": "ntnorhsnlpofmpoortqpootqsnrvposolvqvmjlllkjnqehciikhnknomprsphn4"
    }
   ]
  },
@@ -2744,14 +3194,9 @@
   "group_name": "Swahili",
   "clips": [
    {
-    "id": "e7ed749b5d",
-    "dur": 20.31,
-    "wave": "ovrfmi9monm2fkerghgclhfgheb2pdifkdfhm8edh84ipljlamdfaegg9ciddfa3"
-   },
-   {
-    "id": "7b52917eca",
-    "dur": 19.54,
-    "wave": "qtvmqbjqss8upovkno93sqnnn62rkrpljlmrjgonlb2ntlrnmqlnmjilhijnlpe5"
+    "id": "ddb58ad8f7",
+    "dur": 19.25,
+    "wave": "bnjol2mmoo23evorjijkqlkeb34kpqlntomjkgkmk234gqnqgpjnkih4phigheb8"
    },
    {
     "id": "5ca8b39343",
@@ -2759,9 +3204,24 @@
     "wave": "ovqpngnnlq3ehdoeegbggdeda0jbfeg9bfgfg9eed9dhj9gibgcebeaf9c9gee94"
    },
    {
-    "id": "70f7a0f2e9",
-    "dur": 16.28,
-    "wave": "hmnllnnspkmmrvonnnnolopbrqroqsmnnmlfqpod3kvqlsmqpqpijoojoiqolmi7"
+    "id": "bafb9def0b",
+    "dur": 19.3,
+    "wave": "svpkmoorpgpmsnjihpqnpfimliroojfmmjoneikbkrkgkjigkjggj9jgefajfhfc"
+   },
+   {
+    "id": "7b52917eca",
+    "dur": 19.54,
+    "wave": "qtvmqbjqss8upovkno93sqnnn62rkrpljlmrjgonlb2ntlrnmqlnmjilhijnlpe5"
+   },
+   {
+    "id": "e7ed749b5d",
+    "dur": 20.31,
+    "wave": "ovrfmi9monm2fkerghgclhfgheb2pdifkdfhm8edh84ipljlamdfaegg9ciddfa3"
+   },
+   {
+    "id": "0539c4a0da",
+    "dur": 17.08,
+    "wave": "nurogtuombsurunjiipmrqgg7rmtvornrpnplglfnjeruqpnmkpjivpkrhljmsnj"
    },
    {
     "id": "07711a44ab",
@@ -2769,9 +3229,9 @@
     "wave": "mtpmonmq1pqqrmmmmqmmjbrvsoprkqonlkqlr3ptqpkppmlp5soqlovorppktupg"
    },
    {
-    "id": "bafb9def0b",
-    "dur": 19.3,
-    "wave": "svpkmoorpgpmsnjihpqnpfimliroojfmmjoneikbkrkgkjigkjggj9jgefajfhfc"
+    "id": "70f7a0f2e9",
+    "dur": 16.28,
+    "wave": "hmnllnnspkmmrvonnnnolopbrqroqsmnnmlfqpod3kvqlsmqpqpijoojoiqolmi7"
    }
   ]
  },
@@ -2785,6 +3245,11 @@
   "group_name": "Swahili",
   "clips": [
    {
+    "id": "8dbe93263f",
+    "dur": 18.16,
+    "wave": "lvpljsoa22jqpufkgnfrti721rttpnsinllfgb921lo7lrnlkirmhc3lqghjhfb6"
+   },
+   {
     "id": "ae6a094f80",
     "dur": 16.83,
     "wave": "ntkqcponnfpptqnqpgvoopq2lnnopomimbjjknhknmnlilpljphkjljkjnmmmoj2"
@@ -2795,14 +3260,19 @@
     "wave": "blkga0jovvgqlttmolrlmhm60tmpmolgnnmoinll50mvmqrkmnhkinmmhhpkjkda"
    },
    {
-    "id": "bc4a51654c",
-    "dur": 15.68,
-    "wave": "rrkrlurrtfprroosplupoqrnrvrtvqqsmspmptrepurtmoqouunqmilpooopppri"
-   },
-   {
     "id": "d606e921c6",
     "dur": 21.06,
     "wave": "5lvnpeknjfknntlij8sjnhg1uopmjcqsppmjvhgjtcjsl5qqmlli0qnhpgninmkd"
+   },
+   {
+    "id": "998089008f",
+    "dur": 13.32,
+    "wave": "jsmjb1kooh9dpssrhhj6hljfg9jpppmvkmjmkhehi3itmpllknjeodilijgihedh"
+   },
+   {
+    "id": "bc4a51654c",
+    "dur": 15.68,
+    "wave": "rrkrlurrtfprroosplupoqrnrvrtvqqsmspmptrepurtmoqouunqmilpooopppri"
    }
   ]
  },
@@ -2816,14 +3286,14 @@
   "group_name": "Swahili",
   "clips": [
    {
-    "id": "3a0d478878",
-    "dur": 15.8,
-    "wave": "23pql8qtpofh2lsrmrofikijjnl9gc2lrvopiinmgjd2npuooikjiflkiqlojgj7"
-   },
-   {
     "id": "4d658f40b3",
     "dur": 15.11,
     "wave": "dvuprrrpnf3jsomtopkinmnnnmh3nrpopojoqnklk2gpppphomfuitommtqpmrl7"
+   },
+   {
+    "id": "3a0d478878",
+    "dur": 15.8,
+    "wave": "23pql8qtpofh2lsrmrofikijjnl9gc2lrvopiinmgjd2npuooikjiflkiqlojgj7"
    }
   ]
  },
@@ -2858,6 +3328,11 @@
   "group_name": "Swati (siSwati)",
   "clips": [
    {
+    "id": "1a25eddc66",
+    "dur": 29.0,
+    "wave": "olg1lp1pg34ve34plhljgfkhgd04vjllgdmlkie0iljkef60olmjmkffe0iljigc"
+   },
+   {
     "id": "b11cdd9cb7",
     "dur": 38.96,
     "wave": "poojovkmssijrpkpnhqnoucvlqrqspronp1irmj8ltml1uqppskpjlvjgsvlslsf"
@@ -2874,6 +3349,11 @@
   "group_name": "Swati (siSwati)",
   "clips": [
    {
+    "id": "6a81a94da2",
+    "dur": 27.99,
+    "wave": "qvm3potd2qof28rpjljidmeh3lqqpph6kgski42pmhije3bsunkqpjjd2mhmhmge"
+   },
+   {
     "id": "b6a6557146",
     "dur": 37.24,
     "wave": "ptonvrlphrtskorqqpnrhurptmvpmrujrd2344tnmkupj9tslnqjlomk6msoqns4"
@@ -2889,6 +3369,11 @@
   "text": "Sawubona ekuseni. Unjani lamuhla? Imakethe igcwele kakhulu bantfu ntsambama, ngako kufanele sihambe masinyane. Libhasi leliya edolobheni lihamba ngasiphi sikhatsi ngeMgcibelo? Ngicela ushayele Nomsa kusasa ngelishumi nesiphohlongo nencenye ukuze uqinisekise umhlangano loseMbabane.",
   "group_name": "Swati (siSwati)",
   "clips": [
+   {
+    "id": "83e8d0d416",
+    "dur": 21.3,
+    "wave": "nvh6msh60rnfngpih83jnktjgg11omplilfeig11ptmppgh8pqqhjjbmmrkkihh7"
+   },
    {
     "id": "ace9bea868",
     "dur": 29.2,
@@ -2909,6 +3394,11 @@
     "id": "edbc2603f7",
     "dur": 36.8,
     "wave": "tkpjpo7vnrjjrnlsnshulnkutmjukrphp9m46trpu5prqlgopkqdmbnmqpnub546"
+   },
+   {
+    "id": "0b4e53b147",
+    "dur": 21.38,
+    "wave": "8vlf22ola12pilimfh9imojeb12innif4mibfd912klmiag9kmgjie5mkjgi9eg8"
    }
   ]
  },
@@ -2921,6 +3411,11 @@
   "text": "ከመይ ሓዲርካ። Good morning, how are you today? ሎሚ ከመይ ኢኻ? Please call Selam by 8:30 AM tomorrow to confirm the meeting in Asmara. ዕዳጋ ሎሚ ድሕሪ ቀትሪ ብዙሕ ሰብ ኣለዎ፣ ስለዚ ቀልጢፍና ክንከይድ ኣለና። The bus will leave at 6:45 on Saturday. እታ ናብ ከተማ እትኸይድ ኣውቶቡስ ቀዳም ኣብ ስንቲ ሰዓት ትነቅል? About 25 people from the office will travel.",
   "group_name": "Tigrinya",
   "clips": [
+   {
+    "id": "344c44ef3b",
+    "dur": 26.54,
+    "wave": "sjb0unmi0voc0pnjlmkkmlhf0nroiijf5ohjjb0nnijiha1pnkmbmmoi3glqhlgg"
+   },
    {
     "id": "64e0006f3d",
     "dur": 28.38,
@@ -2938,6 +3433,11 @@
   "group_name": "Tigrinya",
   "clips": [
    {
+    "id": "6da2f040f4",
+    "dur": 22.99,
+    "wave": "pqj1skrj1knc3qrooogefkhi50lvlnkddrkie13jtlomeb19oopklki81kojfige"
+   },
+   {
     "id": "7be7e93ca9",
     "dur": 26.56,
     "wave": "ppkusrqkrojjmnkkllnrkmlo5qvsnmnqnomonj29ppoorplpnjojohnrnnqnfj11"
@@ -2953,6 +3453,11 @@
   "text": "ከመይ ሓዲርካ። ሎሚ ከመይ ኢኻ? ዕዳጋ ሎሚ ድሕሪ ቀትሪ ብዙሕ ሰብ ኣለዎ፣ ስለዚ ቀልጢፍና ክንከይድ ኣለና። እታ ናብ ከተማ እትኸይድ ኣውቶቡስ ቀዳም ኣብ ስንቲ ሰዓት ትነቅል? በጃኻ ሰላም ጽባሕ ሰዓት ሸሞንተን ፍርቅን ደውለሉ እሞ ኣብ ኣስመራ ዘሎ ኣኼባ ኣረጋግጽ።",
   "group_name": "Tigrinya",
   "clips": [
+   {
+    "id": "5993a75f86",
+    "dur": 19.94,
+    "wave": "rulf3tsrc032ovvjnnni6kqpjjl5113rlllljpshi2100pplspjpkmns7omllljc"
+   },
    {
     "id": "a3d0259ecb",
     "dur": 21.2,
@@ -2973,6 +3478,11 @@
     "id": "ce8c5d6289",
     "dur": 21.95,
     "wave": "osrrttorvtonoopqlklsojoqqqktgsoprg21121mtuqnqqrjutdtrppprnl61114"
+   },
+   {
+    "id": "3448f52f38",
+    "dur": 16.49,
+    "wave": "ovh83vterb56pqljokh7ljeghhb5njakllehcigihgf36hj1nlgfhckkgkjicfdb"
    }
   ]
  },
@@ -3082,14 +3592,14 @@
   "group_name": "Tswana",
   "clips": [
    {
-    "id": "d4762f1df0",
-    "dur": 22.12,
-    "wave": "pi752bvjgc5iphniggleqtejlj1kmcrpmdj4mjkghf6vov6npipilcgmauvvrojg"
-   },
-   {
     "id": "f967b6d23f",
     "dur": 15.43,
     "wave": "lrqrnpi90ioosnmhnolign60rooqonsmkjka33snv5ktmifhmjnf0lrttntjg248"
+   },
+   {
+    "id": "d4762f1df0",
+    "dur": 22.12,
+    "wave": "pi752bvjgc5iphniggleqtejlj1kmcrpmdj4mjkghf6vov6npipilcgmauvvrojg"
    }
   ]
  },
@@ -3124,19 +3634,29 @@
   "group_name": "Twi (Akan)",
   "clips": [
    {
-    "id": "945bec22f5",
-    "dur": 14.69,
-    "wave": "2ejg2bmdonglnemied4jojhkkekkmg7jtlnghdmkga8mvhnhenfhfbe3lokid533"
-   },
-   {
     "id": "00f19ac1e2",
     "dur": 11.9,
     "wave": "vnhuktrsmmsiijpkpmkjhmmmllrofioknnjcppodllsiqinjtfieef9fdpldgbcc"
    },
    {
+    "id": "567cfca78a",
+    "dur": 20.52,
+    "wave": "8non587rvkjhjihjgg5qqkqnklifaacrpnlfkjghgaejpkjggmkmmgebfonfbm53"
+   },
+   {
+    "id": "945bec22f5",
+    "dur": 14.69,
+    "wave": "2ejg2bmdonglnemied4jojhkkekkmg7jtlnghdmkga8mvhnhenfhfbe3lokid533"
+   },
+   {
     "id": "788734b2e6",
     "dur": 23.53,
     "wave": "rrlditqqqojvpokjppprlkfsspffusvqtmqtmrnfpvqsqljsvrmnifutsseemuid"
+   },
+   {
+    "id": "de42863d38",
+    "dur": 14.34,
+    "wave": "rvlc16vnrnpklkgkee2ltimlhfmhi83gvnkmgkfifgc3eqqiklfljigcf4csknfa"
    }
   ]
  },
@@ -3150,14 +3670,24 @@
   "group_name": "Twi (Akan)",
   "clips": [
    {
-    "id": "4284643f16",
-    "dur": 18.48,
-    "wave": "ikg2nljlnlojrfg1rumkkkc1ssra1psko8oifsnnb1qlvmrjj7vkjjpce1mojche"
-   },
-   {
     "id": "720256d978",
     "dur": 10.85,
     "wave": "nigvlsppcsfgppmqkipiijonkqtl8guonqkeqrnegvskmoptfmigemgl9hlgjae8"
+   },
+   {
+    "id": "471b96c036",
+    "dur": 21.29,
+    "wave": "ctp11127vucv6mstpnm3qupqro2vqj112ltpqhpoluqh2ovtpqq2sqpo5nrr7mt4"
+   },
+   {
+    "id": "ee38b4f2bc",
+    "dur": 15.31,
+    "wave": "orj11tqvpskiihehnsnvmqjhjihff32nslkmjkdjhkg3klvjmleokhdcd28qogh7"
+   },
+   {
+    "id": "4284643f16",
+    "dur": 18.48,
+    "wave": "ikg2nljlnlojrfg1rumkkkc1ssra1psko8oifsnnb1qlvmrjj7vkjjpce1mojche"
    }
   ]
  },
@@ -3171,9 +3701,9 @@
   "group_name": "Twi (Akan)",
   "clips": [
    {
-    "id": "e731736856",
-    "dur": 24.41,
-    "wave": "pqidnoroleorlpknopdrklurmjerpmtkopqkqnjepvkfdgqnljinulmnskgetegd"
+    "id": "2fa3364d0b",
+    "dur": 13.7,
+    "wave": "vlgqhrljutsvhqutoimunmlutpqojrnmoklijornihvhnneiplhmmnnkkgorighf"
    },
    {
     "id": "45be6aafa4",
@@ -3181,9 +3711,9 @@
     "wave": "hri1ithli91otpkijkbenokkc1bvplkngiiaa11srh3forkpnjiearmnkmklefc5"
    },
    {
-    "id": "2fa3364d0b",
-    "dur": 13.7,
-    "wave": "vlgqhrljutsvhqutoimunmlutpqojrnmoklijornihvhnneiplhmmnnkkgorighf"
+    "id": "e731736856",
+    "dur": 24.41,
+    "wave": "pqidnoroleorlpknopdrklurmjerpmtkopqkqnjepvkfdgqnljinulmnskgetegd"
    },
    {
     "id": "1c4df81914",
@@ -3215,6 +3745,11 @@
     "id": "cbc8115b2a",
     "dur": 23.14,
     "wave": "esl142rrpr1411fsvnroilpsm3312ktpnqpvq5tf412kqe9qqqnggnsppnomug32"
+   },
+   {
+    "id": "fa71d8a531",
+    "dur": 16.09,
+    "wave": "8si2moro422ouuqnhgd4fmllb12avmnlngliggamd122ipfrkfjiforjhjhifeb3"
    },
    {
     "id": "810ad979aa",
@@ -3361,9 +3896,9 @@
   "group_name": "Wolof",
   "clips": [
    {
-    "id": "741f77bfeb",
-    "dur": 23.52,
-    "wave": "lpq1qsvqlpj1msosmromnspp7oonrrf1rvrra5rkkbilje1onhhdmmjc1pkdjeh8"
+    "id": "249ab210ed",
+    "dur": 20.48,
+    "wave": "pnnnrlnsnllqnnjpoklvmmlplkkmnoqmmqsrpokoqoklkgiqmdronoioolokkilh"
    },
    {
     "id": "d91d35ea38",
@@ -3371,9 +3906,9 @@
     "wave": "nnpfqonppnpppoqpksjqvorpfnpponsfsslmtgrrrbvtnrlsrkvmosnoroospptr"
    },
    {
-    "id": "249ab210ed",
-    "dur": 20.48,
-    "wave": "pnnnrlnsnllqnnjpoklvmmlplkkmnoqmmqsrpokoqoklkgiqmdronoioolokkilh"
+    "id": "741f77bfeb",
+    "dur": 23.52,
+    "wave": "lpq1qsvqlpj1msosmromnspp7oonrrf1rvrra5rkkbilje1onhhdmmjc1pkdjeh8"
    }
   ]
  },
@@ -3387,11 +3922,6 @@
   "group_name": "Wolof",
   "clips": [
    {
-    "id": "68f797a5f3",
-    "dur": 23.49,
-    "wave": "soobpusilmnhmptkkfl5jnln3brkmkk4nmlk8buoilljg2avme7vjgk3hsphlkrb"
-   },
-   {
     "id": "9480784697",
     "dur": 17.31,
     "wave": "rsmmojvskgpkhorodoshjcolmkmkkgojlrmmnqhhqkkggfjkhdomjpilmgmjgjge"
@@ -3400,6 +3930,11 @@
     "id": "edf9e2090f",
     "dur": 34.68,
     "wave": "pvqfvlk8rqdqurlmmiqom9vtrnm6spqrifuqrkp665rpioasknn5mlpplmpso735"
+   },
+   {
+    "id": "68f797a5f3",
+    "dur": 23.49,
+    "wave": "soobpusilmnhmptkkfl5jnln3brkmkk4nmlk8buoilljg2avme7vjgk3hsphlkrb"
    }
   ]
  },
@@ -3439,14 +3974,14 @@
   "group_name": "Wolof",
   "clips": [
    {
-    "id": "fb5a84cd22",
-    "dur": 15.2,
-    "wave": "lvqsj00lrptb01pqlqumub00nusutmtootuouj0qursmrvj03oki0gqvtuqtsjn9"
-   },
-   {
     "id": "672cf73555",
     "dur": 13.31,
     "wave": "tvrmipsldrljnonopfrtpcsmtekmqlhorqnsq9rmpvspfnsnfpgmkratqmogrlki"
+   },
+   {
+    "id": "fb5a84cd22",
+    "dur": 15.2,
+    "wave": "lvqsj00lrptb01pqlqumub00nusutmtootuouj0qursmrvj03oki0gqvtuqtsjn9"
    },
    {
     "id": "c2f0fea7d5",
@@ -3529,14 +4064,14 @@
   "group_name": "Xhosa",
   "clips": [
    {
-    "id": "7760680653",
-    "dur": 18.63,
-    "wave": "k1etk4hvnli82pvnqmigf2rrole8hg3ortgkhiiggdj94tppkhpihkjcelsjkjch"
-   },
-   {
     "id": "2e4498065b",
     "dur": 16.41,
     "wave": "iec4ndcb42lhgjdce9a2llkje19qlelcgdecdgb81djvjbhkfdichk2cfkfdbjc7"
+   },
+   {
+    "id": "7760680653",
+    "dur": 18.63,
+    "wave": "k1etk4hvnli82pvnqmigf2rrole8hg3ortgkhiiggdj94tppkhpihkjcelsjkjch"
    }
   ]
  },
@@ -3550,14 +4085,14 @@
   "group_name": "Xhosa",
   "clips": [
    {
-    "id": "8070591d14",
-    "dur": 24.59,
-    "wave": "20qp6slijf8moskjicnsnkpq0fa0orrno2nlnekoa5mm50svrqlimebtlrmi0ojh"
-   },
-   {
     "id": "ed14fea0c7",
     "dur": 19.71,
     "wave": "ovoqkjje2pkgrihkhn5ssovim4oqtlpnkkoomliheqqlrjnlgonrjfrkqqnnmh45"
+   },
+   {
+    "id": "8070591d14",
+    "dur": 24.59,
+    "wave": "20qp6slijf8moskjicnsnkpq0fa0orrno2nlnekoa5mm50svrqlimebtlrmi0ojh"
    }
   ]
  },
@@ -3571,24 +4106,24 @@
   "group_name": "Yoruba",
   "clips": [
    {
-    "id": "10da46ead1",
-    "dur": 5.6,
-    "wave": "ln7luvtm8grmkjfvv7njplgnni2kohfnopgiok5l9loomoodkpi6erpojknodmd5"
-   },
-   {
-    "id": "5a2098ae82",
-    "dur": 17.33,
-    "wave": "kooerollilshgqrpfnjskvnmn89pnoujkdkmonlggmpojjla1knchjlll8rnjbkg"
-   },
-   {
     "id": "85d700c202",
     "dur": 15.56,
     "wave": "punkproptjffkjkjroevqpvoqosqtsknsrrtiustphqnsrqvhppuluqstqkimpmd"
    },
    {
+    "id": "10da46ead1",
+    "dur": 5.6,
+    "wave": "ln7luvtm8grmkjfvv7njplgnni2kohfnopgiok5l9loomoodkpi6erpojknodmd5"
+   },
+   {
     "id": "0971eb3cda",
     "dur": 14.85,
     "wave": "dvvsltttqptsvptrprsprrqsh1mtpltnmitssrptqrsporkpqqnuunpevrnihtpl"
+   },
+   {
+    "id": "5a2098ae82",
+    "dur": 17.33,
+    "wave": "kooerollilshgqrpfnjskvnmn89pnoujkdkmonlggmpojjla1knchjlll8rnjbkg"
    },
    {
     "id": "36efbf8743",
@@ -3607,24 +4142,24 @@
   "group_name": "Yoruba",
   "clips": [
    {
-    "id": "3859e7ffda",
-    "dur": 14.78,
-    "wave": "inpnllsolmltnnqomlpntroqgpnurvnnjmonnmi2nlqkomhpnpkqupocrihffqo8"
-   },
-   {
     "id": "3ff8021028",
     "dur": 11.42,
     "wave": "nrpdrkpnkgnsviqmlpolholnikprcqtrilpsoj8mlolklgqifmcompkesichfema"
    },
    {
-    "id": "f429dac5f2",
-    "dur": 17.14,
-    "wave": "mvt3vofrolojlkulokgoplm81lrpqjkhpmqkh1ponjphd21errionrjsqh5eedli"
-   },
-   {
     "id": "e94c397c93",
     "dur": 15.87,
     "wave": "lfgcjhrjtfjonsnijngplmvvamlhinpbigmqrvo7jrokfhkmhgj2ioithgngfoqt"
+   },
+   {
+    "id": "3859e7ffda",
+    "dur": 14.78,
+    "wave": "inpnllsolmltnnqomlpntroqgpnurvnnjmonnmi2nlqkomhpnpkqupocrihffqo8"
+   },
+   {
+    "id": "f429dac5f2",
+    "dur": 17.14,
+    "wave": "mvt3vofrolojlkulokgoplm81lrpqjkhpmqkh1ponjphd21errionrjsqh5eedli"
    }
   ]
  },
@@ -3643,16 +4178,6 @@
     "wave": "ltpsvostkpooqpglfpujqoplghitpqjmsmkfntmmlkgvnnqhonoomlpkolfroemj"
    },
    {
-    "id": "382d326c2e",
-    "dur": 16.34,
-    "wave": "oqjmtpqqhpjrkpoi9svhqqtqfhmttmfnoqmntqolrniqslpospli8tplpfrspule"
-   },
-   {
-    "id": "115a432314",
-    "dur": 17.22,
-    "wave": "loniqsprfomvosmofmuvpospoda2hpvrptrmssikqnnhkpsqqqrkplsbopntoqko"
-   },
-   {
     "id": "cbb65140bf",
     "dur": 14.07,
     "wave": "ipvrtohnlaimbeffcaiheiif94535nkjcfdfedjd982gmqmkjihhef5cg8lef9c4"
@@ -3661,6 +4186,16 @@
     "id": "116a3ba78c",
     "dur": 25.06,
     "wave": "2lvp1jvsrqbkmnqrlfnqqnnpqgh2jrrnlrimomonmi21tqnorogmigtqrjnunip5"
+   },
+   {
+    "id": "382d326c2e",
+    "dur": 16.34,
+    "wave": "oqjmtpqqhpjrkpoi9svhqqtqfhmttmfnoqmntqolrniqslpospli8tplpfrspule"
+   },
+   {
+    "id": "115a432314",
+    "dur": 17.22,
+    "wave": "loniqsprfomvosmofmuvpospoda2hpvrptrmssikqnnhkpsqqqrkplsbopntoqko"
    }
   ]
  },
@@ -3673,11 +4208,6 @@
   "text": "Ẹ káàárọ̀! Báwo ni o ṣe wà lónìí? Ọjà kún fún ènìyàn ní ọ̀sán yìí, nítorí náà ẹ jẹ́ kí a lọ ní kùtùkùtù. Ìgbà wo ni ọkọ̀ tí ń lọ sí ìlú yóò kúrò ní ọjọ́ Àbámẹ́ta? Jọ̀wọ́ pe Àdá ní aago mẹ́jọ àbọ̀ ọ̀la kí ó lè fìdí ìpàdé tí ó wà ní Èkó múlẹ̀.",
   "group_name": "Yoruba",
   "clips": [
-   {
-    "id": "dc5bcb659d",
-    "dur": 12.58,
-    "wave": "mslnvqrqliskmmjkcjvtgpqoiggdrromrmkbrrpookaursqokmknonpnkjftnfng"
-   },
    {
     "id": "dc35004d1d",
     "dur": 14.11,
@@ -3692,6 +4222,11 @@
     "id": "b5460b6ab3",
     "dur": 16.8,
     "wave": "ltp5vpppoblpopnnm8htrnsqjgbeqsnnpllplqrolfdpoeqmmpong0usmniuqil4"
+   },
+   {
+    "id": "dc5bcb659d",
+    "dur": 12.58,
+    "wave": "mslnvqrqliskmmjkcjvtgpqoiggdrromrmkbrrpookaursqokmknonpnkjftnfng"
    }
   ]
  },
@@ -3710,14 +4245,19 @@
     "wave": "vsd11muthpmqqhusgich5tkktpjnntrqfmg2mtiifukvnpl26lklnmmnnttheun8"
    },
    {
-    "id": "fb37973197",
-    "dur": 13.56,
-    "wave": "1gql92vophu91nsqqtmmhjimimmd1nrtgshffpmlhi41suvrlnkjnlrcjrmfhmkc"
+    "id": "1b38843ec7",
+    "dur": 15.73,
+    "wave": "ksh9onife51bsddnmgdjdbofkif51mmkkqfdjgjb71114svonktqfgkfhnqifh94"
    },
    {
     "id": "8b7d997d0c",
     "dur": 21.12,
     "wave": "dhe70rjjffg3dncmdbgc7mrefod1mkjficdffcahc6g6vpn4hlkebka9gpgecgk9"
+   },
+   {
+    "id": "fb37973197",
+    "dur": 13.56,
+    "wave": "1gql92vophu91nsqqtmmhjimimmd1nrtgshffpmlhi41suvrlnkjnlrcjrmfhmkc"
    }
   ]
  },
@@ -3731,9 +4271,14 @@
   "group_name": "Yoruba",
   "clips": [
    {
-    "id": "8a22781bfc",
-    "dur": 15.74,
-    "wave": "ntoorplo4etlptpompo2pmtprg2qtqpqimpvmmjsf3ulroqepnkonul4nptuqsum"
+    "id": "c46a253f2f",
+    "dur": 14.76,
+    "wave": "svsf1kpqfa11hqierrhffectimkk411nnssghjmjc8115stttkmnhipilnqmika4"
+   },
+   {
+    "id": "28a1822797",
+    "dur": 16.1,
+    "wave": "jmn2googqbjigqllkosejkpmc2hjlgkdfhjhomsldgjmqhdbh2kcvp6dfrhr9oh4"
    },
    {
     "id": "0a25ac894b",
@@ -3741,9 +4286,9 @@
     "wave": "hn1gmr07sd0i8innviclfkbmkvkgknghgkf1jrhoefelc1802tsttrgl9ouhterd"
    },
    {
-    "id": "28a1822797",
-    "dur": 16.1,
-    "wave": "jmn2googqbjigqllkosejkpmc2hjlgkdfhjhomsldgjmqhdbh2kcvp6dfrhr9oh4"
+    "id": "8a22781bfc",
+    "dur": 15.74,
+    "wave": "ntoorplo4etlptpompo2pmtprg2qtqpqimpvmmjsf3ulroqepnkonul4nptuqsum"
    }
   ]
  },
@@ -3842,14 +4387,14 @@
   "group_name": "Zulu",
   "clips": [
    {
-    "id": "21d4a5b2eb",
-    "dur": 14.06,
-    "wave": "horrrnnlnnofklkjplqojomqjlqanlojnjihioglon8mnvqsslmhhogjmlhehika"
-   },
-   {
     "id": "bf53163d52",
     "dur": 15.86,
     "wave": "irsfnkjjb2emnklmggliilmk52pslgmbfficec613vuorlokcjemc3fmojhcib25"
+   },
+   {
+    "id": "21d4a5b2eb",
+    "dur": 14.06,
+    "wave": "horrrnnlnnofklkjplqojomqjlqanlojnjihioglon8mnvqsslmhhogjmlhehika"
    }
   ]
  }
