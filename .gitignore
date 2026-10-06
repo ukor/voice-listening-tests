@@ -3,3 +3,4 @@ data/ratings_local.csv
 data/pairwise_local.csv
 __pycache__/
 .venv/
+.uv/
